@@ -6,9 +6,9 @@
 
 The aim of this project is to design a Visual Question Answering interface using Visual Language Models (VLMs) for medical diagnosis.
 
-The data utilized for this project consists on two databases which contain images of melanomas, along with decsriptions on the local structures, details about the patient, type of melanoma, and othe rrelevant information.
+The data utilized for this project consists on two databases which contain images of melanomas, along with descriptions on the local structures, details about the patient, type of melanoma, and other relevant information.
 
-Some pre-trained models will be fine-tuned using this data:
+Some of the pre-trained models that will be fine-tuned using this data:
 
     - ViLT
     - GIT
