@@ -1,0 +1,901 @@
+Nombre del archivo (.jpg);Patrón global;Retículo pigmentado;Retículo negativo;Puntos/Glóbulos pequeños;Glóbulos grandes/Empedrado;Glóbulos periféricos;Proyecciones periféricas;Área homogénea sin vasos;Área homogénea con vasos;Área indefinida;Regresión gris;Regresión blanca;Velo azul blanquecino;Crisálidas;Etiqueta binaria
+ISIC_0000000;Reticular difuso;Sí, claro y dominante;No;Sí, sutil;No;No;Sí, sutil;No;No;Sí, sutil;No;No;No;No;benign
+ISIC_0000001;Reticular difuso;Sí, claro y dominante;No;Sí, sutil;No;No;No;Sí, sutil;No;No;No;No;No;No;benign
+ISIC_0000002;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;No;No;No;No;Sí, claro y dominante;No;Sí, claro;Sí, sutil;No;No;No;malignant
+ISIC_0000004;Multicomponente ( mezcla 3 o más anteriores );Sí, sutil;No;No;No;No;No;Sí, claro y dominante;Sí, claro y dominante;Sí, claro y dominante;Sí, claro;Sí, claro;Sí, sutil;No;malignant
+ISIC_0000006;Reticular parcheado;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000007;Reticular difuso;Sí, claro y dominante;Sí, sutil;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000008;Globular;No;No;No;Sí, claro y dominante;Sí, claro;No;Sí, claro;No;No;No;No;No;No;benign
+ISIC_0000009;Globular;Sí, sutil;No;No;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000010;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000011;Homogéneo;Sí, sutil;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000016;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000017;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;No;Sí, claro y dominante;Sí, sutil;No;No;No;No;No;No;No;No;benign
+ISIC_0000018;Reticular difuso;Sí, claro y dominante;No;Sí, sutil;No;No;No;Sí, sutil;No;No;Sí, claro;No;No;No;benign
+ISIC_0000019;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000021;Reticular difuso;Sí, claro y dominante;No;Sí, claro;No;No;No;No;No;Sí, sutil;No;Sí, sutil;No;No;benign
+ISIC_0000024;Mixto (mezcla dos de los anteriores);No;Sí, claro y dominante;Sí, claro y dominante;Sí, sutil;No;No;No;No;Sí, claro;No;Sí, claro;No;No;benign
+ISIC_0000025;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;Sí, claro;No;No;No;No;No;benign
+ISIC_0000026;Multicomponente ( mezcla 3 o más anteriores );Sí, sutil;No;Sí, claro;No;No;No;Sí, claro y dominante;Sí, claro y dominante;Sí, claro;No;Sí, claro;No;No;malignant
+ISIC_0000028;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;Sí, sutil;No;No;No;No;No;No;benign
+ISIC_0000029;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, sutil;No;No;Sí, claro;Sí, claro;No;Sí, claro y dominante;Sí, claro;No;No;No;malignant
+ISIC_0000030;Indefinido;No;No;No;No;No;No;No;Sí, claro;Sí, claro y dominante;No;Sí, claro;Sí, claro;Sí, claro;malignant
+ISIC_0000031;Multicomponente ( mezcla 3 o más anteriores );Sí, claro y dominante;No;Sí, sutil;No;Sí, sutil;Sí, sutil;Sí, claro y dominante;No;Sí, claro y dominante;Sí, sutil;Sí, claro;Sí, sutil;Sí, claro;malignant
+ISIC_0000032;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, claro y dominante;No;Sí, sutil;No;Sí, claro;No;No;No;No;No;No;benign
+ISIC_0000034;Reticular difuso;Sí, claro y dominante;No;Sí, claro;No;Sí, sutil;Sí, sutil;Sí, sutil;No;No;Sí, claro;No;Sí, claro;No;benign
+ISIC_0000035;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;Sí, sutil;Sí, sutil;No;No;No;No;No;Sí, claro y dominante;Sí, sutil;No;No;Sí, claro;malignant
+ISIC_0000038;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;Sí, claro;No;No;No;No;No;No;benign
+ISIC_0000039;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;No;benign
+ISIC_0000041;Homogéneo;No;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000042;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, sutil;No;No;No;Sí, claro y dominante;No;Sí, sutil;No;No;Sí, sutil;No;benign
+ISIC_0000044;Reticular difuso;Sí, claro y dominante;No;Sí, claro;No;Sí, sutil;No;Sí, sutil;No;No;No;No;No;No;benign
+ISIC_0000045;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;No;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000046;Reticular difuso;Sí, claro y dominante;No;Sí, sutil;No;No;No;No;No;Sí, claro;No;Sí, sutil;No;No;malignant
+ISIC_0000047;Reticular difuso;Sí, claro y dominante;No;Sí, sutil;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000048;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;No;No;No;No;Sí, claro y dominante;No;No;No;Sí, claro;No;No;benign
+ISIC_0000049;Reticular parcheado;Sí, claro y dominante;No;Sí, claro;No;No;No;Sí, claro;No;No;No;Sí, sutil;No;No;malignant
+ISIC_0000050;Mixto (mezcla dos de los anteriores);Sí, claro;No;Sí, sutil;Sí, claro;No;No;No;Sí, claro y dominante;Sí, claro y dominante;No;Sí, claro;No;No;benign
+ISIC_0000051;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;Sí, claro;No;No;No;No;No;No;benign
+ISIC_0000054;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;Sí, claro;No;No;No;No;No;No;malignant
+ISIC_0000055;Reticular difuso;Sí, claro y dominante;No;Sí, sutil;No;No;No;Sí, sutil;No;No;Sí, claro;No;No;No;benign
+ISIC_0000058;Homogéneo;No;No;Sí, claro;No;Sí, claro;No;Sí, claro y dominante;No;Sí, sutil;No;No;No;No;benign
+ISIC_0000059;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000060;Reticular difuso;Sí, claro y dominante;No;Sí, sutil;No;No;No;No;No;No;Sí, sutil;No;No;No;benign
+ISIC_0000061;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000062;Reticular difuso;Sí, claro y dominante;No;Sí, claro;No;Sí, claro;No;No;No;No;No;No;No;No;benign
+ISIC_0000063;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, sutil;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000065;Reticular difuso;Sí, claro y dominante;No;Sí, sutil;No;No;No;Sí, claro;No;No;No;No;No;No;benign
+ISIC_0000067;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;Sí, claro;No;No;Sí, sutil;No;No;No;benign
+ISIC_0000068;Reticular difuso;Sí, claro y dominante;No;Sí, sutil;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000073;Homogéneo;Sí, sutil;Sí, claro;Sí, sutil;No;No;Sí, claro y dominante;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000074;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;No;No;No;No;Sí, claro y dominante;No;No;No;Sí, claro;No;No;malignant
+ISIC_0000075;Reticular difuso;Sí, claro y dominante;No;Sí, sutil;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000077;Homogéneo;Sí, claro;No;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;No;benign
+ISIC_0000078;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;No;No;No;Sí, sutil;Sí, claro y dominante;No;No;No;No;No;No;malignant
+ISIC_0000079;Reticular difuso;Sí, claro y dominante;No;No;Sí, sutil;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000080;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;Sí, sutil;No;No;No;No;No;No;benign
+ISIC_0000081;Mixto (mezcla dos de los anteriores);No;No;No;Sí, claro y dominante;No;No;No;No;Sí, claro y dominante;No;No;No;No;benign
+ISIC_0000082;Reticular difuso;Sí, claro y dominante;No;Sí, sutil;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000085;Reticular difuso;Sí, claro y dominante;No;Sí, sutil;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000086;Mixto (mezcla dos de los anteriores);Sí, sutil;No;Sí, claro y dominante;No;Sí, sutil;No;Sí, claro y dominante;No;No;Sí, sutil;No;No;No;benign
+ISIC_0000087;Reticular difuso;Sí, claro;Sí, claro y dominante;Sí, sutil;No;No;No;No;Sí, sutil;No;No;No;No;No;benign
+ISIC_0000089;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;No;No;No;No;Sí, claro y dominante;No;No;Sí, claro;No;No;No;benign
+ISIC_0000091;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, sutil;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;benign
+ISIC_0000093;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;Sí, sutil;No;No;No;No;No;No;benign
+ISIC_0000094;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000095;Reticular difuso;Sí, claro y dominante;No;Sí, sutil;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000096;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;No;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000097;Mixto (mezcla dos de los anteriores);No;No;No;Sí, claro y dominante;No;No;No;Sí, claro y dominante;No;No;No;No;No;benign
+ISIC_0000100;Homogéneo;Sí, claro;No;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;No;benign
+ISIC_0000102;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000103;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, sutil;No;Sí, sutil;Sí, sutil;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000104;Homogéneo;No;No;Sí, sutil;No;No;No;No;Sí, claro y dominante;No;No;No;No;No;benign
+ISIC_0000105;Reticular difuso;Sí, claro y dominante;No;Sí, sutil;No;Sí, sutil;No;No;No;No;No;No;No;No;benign
+ISIC_0000108;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, claro y dominante;No;Sí, claro;No;No;No;No;No;No;No;No;benign
+ISIC_0000109;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;Sí, claro;Sí, claro;No;No;benign
+ISIC_0000110;Homogéneo;Sí, sutil;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000112;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000114;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;Sí, claro;No;No;No;benign
+ISIC_0000116;Homogéneo;Sí, sutil;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000118;Homogéneo;Sí, claro;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000119;Reticular difuso;Sí, claro y dominante;No;Sí, sutil;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000120;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;No;benign
+ISIC_0000121;Homogéneo;No;No;Sí, claro;No;No;No;No;Sí, claro y dominante;No;No;No;No;No;benign
+ISIC_0000122;Empedrado;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000123;Homogéneo;No;No;Sí, claro;No;No;No;Sí, claro y dominante;Sí, claro;No;No;No;No;No;benign
+ISIC_0000124;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000127;Mixto (mezcla dos de los anteriores);No;No;Sí, claro;No;No;No;No;Sí, claro y dominante;Sí, claro y dominante;No;Sí, sutil;No;No;benign
+ISIC_0000128;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, claro y dominante;No;Sí, claro;No;No;No;No;No;No;No;No;benign
+ISIC_0000130;Multicomponente ( mezcla 3 o más anteriores );No;No;Sí, claro y dominante;No;No;Sí, claro y dominante;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000131;Homogéneo;No;No;Sí, claro;No;No;No;No;Sí, claro y dominante;No;No;No;No;No;benign
+ISIC_0000133;Reticular difuso;Sí, claro y dominante;Sí, sutil;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000134;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000135;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;Sí, sutil;No;No;No;No;No;No;benign
+ISIC_0000137;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, sutil;No;Sí, sutil;No;Sí, claro y dominante;No;No;Sí, sutil;No;No;No;benign
+ISIC_0000139;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, sutil;No;Sí, claro;No;Sí, claro y dominante;No;No;No;No;Sí, claro;No;malignant
+ISIC_0000140;Multicomponente ( mezcla 3 o más anteriores );Sí, claro y dominante;No;Sí, claro y dominante;No;No;No;Sí, claro y dominante;No;Sí, claro y dominante;Sí, claro;No;Sí, claro;Sí, sutil;malignant
+ISIC_0000142;Multicomponente ( mezcla 3 o más anteriores );No;No;Sí, claro y dominante;No;No;Sí, sutil;Sí, claro y dominante;Sí, claro y dominante;Sí, claro;Sí, sutil;No;Sí, claro;Sí, claro;malignant
+ISIC_0000143;Globular;Sí, sutil;No;Sí, claro y dominante;No;No;No;No;Sí, claro;No;No;No;No;No;malignant
+ISIC_0000145;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;Sí, claro;No;No;No;No;No;No;malignant
+ISIC_0000146;Mixto (mezcla dos de los anteriores);No;Sí, claro;Sí, sutil;No;No;No;No;Sí, claro y dominante;Sí, claro y dominante;No;No;Sí, sutil;Sí, claro;malignant
+ISIC_0000147;Indefinido;No;No;No;No;No;No;Sí, claro;No;Sí, claro y dominante;Sí, claro;No;Sí, claro;Sí, claro;malignant
+ISIC_0000148;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;No;No;No;Sí, sutil;No;Sí, claro y dominante;No;No;No;No;Sí, sutil;malignant
+ISIC_0000150;Multicomponente ( mezcla 3 o más anteriores );Sí, claro y dominante;No;Sí, claro y dominante;No;Sí, claro y dominante;Sí, sutil;No;No;Sí, claro y dominante;Sí, claro;Sí, claro;No;No;malignant
+ISIC_0000151;Multicomponente ( mezcla 3 o más anteriores );Sí, claro y dominante;No;Sí, claro;No;Sí, claro y dominante;No;Sí, claro y dominante;No;No;No;No;No;No;malignant
+ISIC_0000152;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;No;No;No;Sí, sutil;No;No;Sí, claro y dominante;No;No;No;No;malignant
+ISIC_0000153;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;No;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;malignant
+ISIC_0000154;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;No;No;No;No;No;No;Sí, claro y dominante;Sí, claro;Sí, claro;No;No;malignant
+ISIC_0000155;Multicomponente ( mezcla 3 o más anteriores );Sí, claro y dominante;No;Sí, sutil;Sí, claro;Sí, sutil;Sí, claro;Sí, claro y dominante;No;Sí, sutil;No;No;Sí, claro;No;malignant
+ISIC_0000156;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;No;No;No;No;Sí, claro y dominante;No;No;Sí, claro;No;No;No;malignant
+ISIC_0000157;Multicomponente ( mezcla 3 o más anteriores );Sí, claro;No;No;No;No;No;Sí, claro y dominante;Sí, claro y dominante;No;No;No;Sí, claro;No;malignant
+ISIC_0000159;Mixto (mezcla dos de los anteriores);Sí, sutil;No;Sí, claro y dominante;No;No;Sí, sutil;Sí, claro y dominante;No;No;Sí, claro;No;No;No;malignant
+ISIC_0000162;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;No;No;No;No;No;No;Sí, claro y dominante;No;Sí, claro;No;No;malignant
+ISIC_0000163;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;No;No;No;No;Sí, claro y dominante;No;No;Sí, claro;No;No;No;malignant
+ISIC_0000166;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, sutil;No;Sí, sutil;Sí, claro;Sí, claro;No;Sí, claro y dominante;Sí, claro;Sí, claro;No;No;malignant
+ISIC_0000167;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;No;No;No;No;No;No;Sí, claro y dominante;Sí, sutil;Sí, claro;No;No;malignant
+ISIC_0000170;Multicomponente ( mezcla 3 o más anteriores );Sí, claro y dominante;No;Sí, sutil;No;No;No;Sí, claro y dominante;No;Sí, claro y dominante;No;No;No;No;malignant
+ISIC_0000171;Multicomponente ( mezcla 3 o más anteriores );Sí, claro y dominante;No;Sí, claro;No;No;No;Sí, claro y dominante;No;Sí, claro y dominante;No;No;No;No;malignant
+ISIC_0000173;Mixto (mezcla dos de los anteriores);Sí, sutil;No;No;No;No;Sí, sutil;Sí, claro y dominante;No;Sí, claro y dominante;Sí, claro;Sí, claro;No;No;malignant
+ISIC_0000175;Multicomponente ( mezcla 3 o más anteriores );Sí, claro y dominante;No;Sí, claro;No;Sí, claro y dominante;No;Sí, claro y dominante;No;No;Sí, sutil;No;No;No;malignant
+ISIC_0000176;Reticular difuso;Sí, claro y dominante;No;Sí, sutil;No;No;No;No;No;No;No;No;No;No;malignant
+ISIC_0000179;Mixto (mezcla dos de los anteriores);No;No;Sí, claro y dominante;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000181;Homogéneo;No;No;Sí, sutil;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000182;Mixto (mezcla dos de los anteriores);Sí, claro;No;Sí, claro y dominante;No;No;No;No;Sí, claro y dominante;No;No;No;No;No;benign
+ISIC_0000183;Multicomponente ( mezcla 3 o más anteriores );Sí, claro y dominante;No;Sí, claro y dominante;No;Sí, claro y dominante;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000184;Mixto (mezcla dos de los anteriores);Sí, sutil;No;Sí, sutil;Sí, claro y dominante;No;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000185;Homogéneo;No;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000186;Homogéneo;No;No;Sí, sutil;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000187;Empedrado;No;No;Sí, sutil;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000189;Empedrado;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000190;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000191;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;No;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000192;Mixto (mezcla dos de los anteriores);No;No;Sí, claro;No;No;No;No;Sí, claro y dominante;Sí, claro y dominante;No;Sí, claro;Sí, claro;No;benign
+ISIC_0000193;Homogéneo;No;No;No;No;No;No;Sí, claro y dominante;No;No;Sí, claro;Sí, claro;No;No;benign
+ISIC_0000199;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, sutil;No;No;Sí, claro y dominante;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000203;Reticular parcheado;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000204;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000205;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, sutil;No;No;No;No;No;Sí, claro y dominante;No;Sí, sutil;No;No;benign
+ISIC_0000206;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, claro;No;No;No;Sí, claro y dominante;No;No;No;Sí, claro;No;No;benign
+ISIC_0000207;Reticular parcheado;Sí, claro y dominante;No;Sí, sutil;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000208;Reticular parcheado;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000209;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;No;Sí, claro y dominante;No;No;No;No;Sí, sutil;No;No;No;No;benign
+ISIC_0000210;Homogéneo;Sí, sutil;No;No;No;No;Sí, claro y dominante;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000211;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000214;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000215;Reticular parcheado;Sí, claro y dominante;No;Sí, sutil;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000216;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, claro y dominante;No;Sí, claro y dominante;No;No;No;Sí, sutil;Sí, sutil;No;No;No;benign
+ISIC_0000217;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000218;Reticular difuso;Sí, claro y dominante;No;Sí, sutil;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000219;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;No;No;No;No;No;No;Sí, claro y dominante;No;Sí, claro;No;No;benign
+ISIC_0000220;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000221;Globular;No;No;Sí, claro y dominante;No;Sí, claro y dominante;No;Sí, claro;No;No;No;No;No;No;benign
+ISIC_0000223;Reticular parcheado;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000224;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000225;Mixto (mezcla dos de los anteriores);No;Sí, claro y dominante;No;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000229;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;No;benign
+ISIC_0000232;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000235;Homogéneo;No;No;Sí, claro;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000236;Reticular difuso;Sí, claro y dominante;No;Sí, claro;No;Sí, claro;Sí, sutil;No;No;Sí, sutil;Sí, sutil;No;No;No;benign
+ISIC_0000237;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, sutil;No;No;No;No;No;Sí, claro y dominante;No;Sí, sutil;No;No;benign
+ISIC_0000239;Homogéneo;Sí, claro;No;No;No;No;Sí, claro y dominante;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000240;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, claro y dominante;No;No;No;Sí, sutil;No;No;No;No;No;No;benign
+ISIC_0000242;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000243;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, claro y dominante;No;Sí, claro y dominante;No;No;No;No;Sí, claro;No;No;No;benign
+ISIC_0000244;Reticular difuso;Sí, claro y dominante;Sí, claro;Sí, sutil;No;No;No;Sí, claro;Sí, claro;No;No;Sí, sutil;No;No;benign
+ISIC_0000245;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;No;No;No;No;No;No;Sí, claro y dominante;No;Sí, claro;No;No;benign
+ISIC_0000247;Reticular difuso;Sí, claro y dominante;No;Sí, sutil;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000249;Globular;No;No;Sí, claro y dominante;No;No;No;No;No;No;No;Sí, sutil;No;No;benign
+ISIC_0000250;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, claro;No;Sí, claro y dominante;No;No;Sí, claro;No;No;No;No;No;benign
+ISIC_0000251;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000252;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;Sí, sutil;No;No;No;No;No;No;benign
+ISIC_0000255;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000256;Homogéneo;Sí, claro;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000259;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, claro y dominante;No;No;No;No;No;Sí, claro;No;No;No;No;benign
+ISIC_0000260;Globular;No;No;Sí, claro;Sí, claro y dominante;Sí, claro y dominante;No;No;No;No;No;No;No;No;benign
+ISIC_0000261;Globular;No;No;Sí, claro;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000262;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, claro y dominante;No;Sí, sutil;No;No;No;No;No;No;No;No;benign
+ISIC_0000263;Reticular difuso;Sí, claro y dominante;No;Sí, sutil;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000264;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000265;Homogéneo;No;No;No;No;No;No;Sí, claro y dominante;No;No;Sí, sutil;Sí, sutil;Sí, sutil;No;benign
+ISIC_0000268;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;Sí, sutil;No;No;No;No;benign
+ISIC_0000269;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, claro y dominante;No;Sí, claro y dominante;No;Sí, sutil;No;No;No;No;No;No;benign
+ISIC_0000274;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;No;No;No;No;Sí, claro y dominante;Sí, claro;Sí, sutil;No;No;No;No;benign
+ISIC_0000275;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000276;Homogéneo;Sí, sutil;Sí, sutil;No;No;No;No;No;Sí, claro y dominante;No;No;No;Sí, claro;No;malignant
+ISIC_0000277;Multicomponente ( mezcla 3 o más anteriores );Sí, claro y dominante;No;Sí, claro y dominante;No;No;No;No;No;Sí, claro y dominante;Sí, claro;Sí, sutil;No;No;malignant
+ISIC_0000278;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;No;No;No;No;No;No;Sí, claro y dominante;Sí, claro;No;No;No;malignant
+ISIC_0000280;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, sutil;No;No;No;No;No;Sí, claro y dominante;No;Sí, claro;No;No;malignant
+ISIC_0000281;Multicomponente ( mezcla 3 o más anteriores );Sí, claro y dominante;No;Sí, claro y dominante;No;No;Sí, claro y dominante;Sí, claro y dominante;Sí, claro y dominante;Sí, claro y dominante;No;Sí, claro;Sí, claro;No;malignant
+ISIC_0000282;Multicomponente ( mezcla 3 o más anteriores );No;No;Sí, claro y dominante;Sí, claro y dominante;No;No;Sí, claro y dominante;No;Sí, claro y dominante;No;No;No;No;malignant
+ISIC_0000283;Multicomponente ( mezcla 3 o más anteriores );Sí, claro y dominante;No;No;No;No;Sí, claro y dominante;Sí, claro y dominante;No;Sí, sutil;No;No;Sí, claro;No;malignant
+ISIC_0000285;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;Sí, claro y dominante;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;No;malignant
+ISIC_0000288;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, claro y dominante;No;No;No;No;No;No;Sí, claro;No;No;No;malignant
+ISIC_0000290;Mixto (mezcla dos de los anteriores);No;No;No;No;No;No;Sí, claro y dominante;Sí, claro;Sí, claro y dominante;No;No;Sí, claro;No;malignant
+ISIC_0000292;Multicomponente ( mezcla 3 o más anteriores );Sí, claro y dominante;No;Sí, claro y dominante;No;No;No;No;No;Sí, claro y dominante;Sí, sutil;No;No;No;malignant
+ISIC_0000293;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;Sí, claro;No;No;No;No;Sí, claro y dominante;No;Sí, claro;Sí, sutil;Sí, claro;No;Sí, claro;malignant
+ISIC_0000294;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;No;No;No;No;No;Sí, claro;Sí, claro y dominante;No;No;No;Sí, claro;malignant
+ISIC_0000295;Multicomponente ( mezcla 3 o más anteriores );Sí, claro y dominante;Sí, claro y dominante;No;Sí, claro;No;Sí, claro y dominante;Sí, claro y dominante;No;No;No;No;Sí, claro;No;malignant
+ISIC_0000297;Homogéneo;No;No;No;No;Sí, claro;Sí, claro y dominante;Sí, claro y dominante;No;No;No;No;No;No;malignant
+ISIC_0000300;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, sutil;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;malignant
+ISIC_0000301;Homogéneo;Sí, claro;No;Sí, claro;No;Sí, claro;Sí, sutil;Sí, claro y dominante;No;No;No;No;Sí, sutil;No;malignant
+ISIC_0000303;Multicomponente ( mezcla 3 o más anteriores );Sí, claro y dominante;No;Sí, claro y dominante;No;No;No;Sí, claro y dominante;No;No;No;No;Sí, sutil;No;malignant
+ISIC_0000307;Multicomponente ( mezcla 3 o más anteriores );Sí, sutil;No;Sí, sutil;No;No;No;Sí, claro y dominante;Sí, claro y dominante;Sí, claro y dominante;No;No;Sí, claro;No;malignant
+ISIC_0000313;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;malignant
+ISIC_0000314;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, sutil;No;No;No;Sí, claro y dominante;No;No;No;No;Sí, claro;No;malignant
+ISIC_0000315;Mixto (mezcla dos de los anteriores);No;No;Sí, claro y dominante;No;No;No;No;Sí, claro y dominante;No;No;No;No;No;benign
+ISIC_0000316;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;Sí, sutil;No;No;No;No;No;No;benign
+ISIC_0000317;Homogéneo;Sí, sutil;No;Sí, sutil;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000321;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, sutil;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000322;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, sutil;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000323;Homogéneo;No;No;Sí, sutil;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000324;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, claro;No;No;No;No;Sí, claro y dominante;No;No;No;No;No;benign
+ISIC_0000326;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000329;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, claro;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000330;Homogéneo;No;No;No;No;No;Sí, claro;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000331;Mixto (mezcla dos de los anteriores);No;No;No;Sí, claro y dominante;No;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000332;Indefinido;Sí, claro;No;No;No;No;No;Sí, claro;No;Sí, claro y dominante;Sí, sutil;No;No;No;benign
+ISIC_0000333;Mixto (mezcla dos de los anteriores);Sí, sutil;No;No;Sí, claro y dominante;No;No;Sí, claro;No;Sí, claro y dominante;No;No;No;No;benign
+ISIC_0000336;Mixto (mezcla dos de los anteriores);Sí, sutil;No;Sí, claro y dominante;No;Sí, sutil;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000337;Multicomponente ( mezcla 3 o más anteriores );Sí, claro y dominante;No;No;No;No;Sí, claro;Sí, claro y dominante;No;Sí, claro y dominante;No;No;Sí, sutil;No;benign
+ISIC_0000338;Reticular difuso;Sí, claro y dominante;No;Sí, sutil;No;No;No;Sí, claro;No;No;No;No;No;No;benign
+ISIC_0000339;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, sutil;No;No;No;Sí, claro y dominante;No;No;No;No;Sí, sutil;No;benign
+ISIC_0000341;Mixto (mezcla dos de los anteriores);Sí, sutil;No;Sí, claro;Sí, claro y dominante;Sí, claro y dominante;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000342;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, sutil;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000344;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, sutil;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000345;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000346;Mixto (mezcla dos de los anteriores);No;No;Sí, claro y dominante;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000347;Indefinido;No;No;No;No;No;No;Sí, claro y dominante;No;Sí, claro y dominante;No;No;No;No;benign
+ISIC_0000348;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, sutil;No;Sí, sutil;Sí, claro y dominante;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000349;Reticular difuso;Sí, claro;No;Sí, sutil;No;Sí, claro;No;Sí, sutil;No;No;Sí, sutil;No;No;No;benign
+ISIC_0000350;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, claro;No;Sí, sutil;No;Sí, claro;No;No;No;No;No;No;benign
+ISIC_0000351;Mixto (mezcla dos de los anteriores);Sí, claro;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000352;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;Sí, sutil;No;No;No;No;benign
+ISIC_0000353;Reticular difuso;Sí, claro y dominante;No;No;No;Sí, sutil;No;No;No;Sí, sutil;No;No;No;No;benign
+ISIC_0000355;Mixto (mezcla dos de los anteriores);No;No;Sí, claro;Sí, claro;Sí, claro;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000358;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, sutil;No;No;No;Sí, claro;No;No;No;No;No;No;benign
+ISIC_0000359;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, sutil;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000360;Reticular parcheado;Sí, claro y dominante;No;Sí, sutil;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000361;Reticular difuso;Sí, claro y dominante;No;Sí, sutil;No;No;No;No;No;Sí, claro;No;No;No;No;benign
+ISIC_0000363;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;No;No;Sí, sutil;No;No;No;Sí, claro y dominante;No;No;No;No;benign
+ISIC_0000364;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000365;Reticular difuso;Sí, claro y dominante;No;Sí, sutil;No;No;No;No;No;Sí, claro;No;No;No;No;benign
+ISIC_0000366;Indefinido;Sí, sutil;No;Sí, sutil;No;No;No;Sí, claro;No;Sí, claro y dominante;No;No;No;No;benign
+ISIC_0000367;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, sutil;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000369;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, sutil;No;No;No;Sí, claro;No;No;No;No;No;No;benign
+ISIC_0000370;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;No;Sí, claro y dominante;No;No;No;No;No;Sí, claro;No;No;No;benign
+ISIC_0000372;Reticular difuso;No;No;Sí, sutil;No;No;No;Sí, sutil;No;No;No;No;No;No;benign
+ISIC_0000374;Reticular difuso;Sí, claro y dominante;No;Sí, sutil;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000376;Reticular difuso;Sí, claro y dominante;No;Sí, sutil;No;No;No;No;No;No;Sí, claro;No;No;No;benign
+ISIC_0000379;Indefinido;Sí, claro;No;Sí, sutil;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;benign
+ISIC_0000381;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;No;No;No;No;Sí, claro;No;No;No;No;No;No;benign
+ISIC_0000382;Empedrado;No;No;No;No;No;No;No;Sí, claro;No;No;No;No;No;benign
+ISIC_0000383;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000384;Reticular difuso;Sí, claro y dominante;No;No;No;Sí, sutil;No;No;No;No;No;No;No;No;benign
+ISIC_0000385;Globular;No;No;No;Sí, claro y dominante;No;No;No;No;No;Sí, sutil;No;No;No;benign
+ISIC_0000386;Reticular difuso;No;No;No;No;No;No;Sí, sutil;No;No;No;No;No;No;benign
+ISIC_0000387;Indefinido;Sí, sutil;No;Sí, claro;No;No;No;No;Sí, claro;No;No;No;No;No;benign
+ISIC_0000390;Multicomponente ( mezcla 3 o más anteriores );Sí, sutil;No;Sí, sutil;No;Sí, claro;Sí, sutil;Sí, claro;No;No;Sí, claro;No;Sí, sutil;Sí, claro;malignant
+ISIC_0000391;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, sutil;No;No;No;Sí, claro;No;No;Sí, sutil;No;No;No;benign
+ISIC_0000395;Indefinido;Sí, claro;No;Sí, sutil;No;No;No;No;Sí, claro y dominante;No;Sí, claro;No;No;No;malignant
+ISIC_0000396;Indefinido;Sí, claro;Sí, sutil;No;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;benign
+ISIC_0000397;Reticular parcheado;No;No;Sí, sutil;No;No;No;No;No;Sí, sutil;No;No;No;No;benign
+ISIC_0000403;Reticular difuso;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000408;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;No;Sí, claro y dominante;No;No;Sí, sutil;No;No;No;No;No;No;benign
+ISIC_0000409;Reticular difuso;No;No;Sí, sutil;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000410;Indefinido;Sí, sutil;No;No;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;malignant
+ISIC_0000412;Indefinido;Sí, sutil;No;No;No;No;No;No;Sí, claro;Sí, claro y dominante;Sí, claro;No;No;No;malignant
+ISIC_0000413;Indefinido;Sí, sutil;No;No;No;No;No;No;Sí, claro y dominante;No;Sí, sutil;No;No;No;malignant
+ISIC_0000415;Indefinido;Sí, sutil;Sí, claro;Sí, claro;No;Sí, sutil;Sí, claro;Sí, sutil;No;No;No;Sí, claro;No;No;malignant
+ISIC_0000416;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000419;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000421;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;Sí, sutil;No;No;No;benign
+ISIC_0000423;Empedrado;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000425;Mixto (mezcla dos de los anteriores);Sí, sutil;No;No;Sí, claro y dominante;No;No;No;No;Sí, sutil;No;No;No;No;benign
+ISIC_0000426;Indefinido;Sí, claro;No;Sí, sutil;No;No;No;No;No;Sí, claro y dominante;No;Sí, claro;No;No;benign
+ISIC_0000427;Reticular difuso;Sí, claro y dominante;No;Sí, sutil;No;No;Sí, sutil;No;No;No;No;No;No;No;benign
+ISIC_0000431;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000434;Indefinido;Sí, claro;No;No;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;malignant
+ISIC_0000436;Indefinido;Sí, sutil;No;No;No;No;No;No;No;Sí, claro;No;No;No;No;benign
+ISIC_0000439;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, sutil;No;No;No;Sí, claro;No;No;No;No;No;No;benign
+ISIC_0000442;Indefinido;Sí, sutil;Sí, sutil;Sí, claro;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;benign
+ISIC_0000443;Mixto (mezcla dos de los anteriores);Sí, claro;No;No;No;No;No;Sí, claro;No;No;No;No;No;No;benign
+ISIC_0000444;Indefinido;Sí, sutil;No;No;No;No;No;No;No;No;Sí, claro;Sí, claro;No;No;malignant
+ISIC_0000445;Indefinido;Sí, sutil;No;No;No;No;No;No;No;No;No;No;No;No;malignant
+ISIC_0000447;Indefinido;Sí, sutil;No;No;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;benign
+ISIC_0000451;Mixto (mezcla dos de los anteriores);Sí, claro;No;Sí, claro;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000452;Multicomponente ( mezcla 3 o más anteriores );Sí, claro;No;Sí, sutil;No;No;No;No;Sí, sutil;No;No;Sí, sutil;No;No;benign
+ISIC_0000453;Indefinido;Sí, sutil;Sí, sutil;Sí, claro;No;Sí, claro;No;No;No;Sí, claro y dominante;No;No;No;No;benign
+ISIC_0000454;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000455;Indefinido;No;No;Sí, sutil;Sí, claro;No;No;No;Sí, sutil;Sí, claro y dominante;No;No;No;No;benign
+ISIC_0000457;Globular;No;No;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000458;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000460;Reticular difuso;Sí, claro y dominante;No;Sí, sutil;No;No;No;Sí, sutil;No;No;No;No;No;No;benign
+ISIC_0000461;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000463;Multicomponente ( mezcla 3 o más anteriores );Sí, claro;No;No;No;No;Sí, claro;Sí, claro;Sí, sutil;No;Sí, claro;No;No;No;malignant
+ISIC_0000465;Indefinido;No;No;No;Sí, claro;No;No;No;No;Sí, claro y dominante;No;No;No;No;benign
+ISIC_0000467;Reticular difuso;No;No;No;No;No;No;No;No;Sí, sutil;No;No;No;No;benign
+ISIC_0000468;Indefinido;Sí, claro;No;Sí, sutil;No;No;No;No;No;Sí, claro;No;No;No;No;benign
+ISIC_0000469;Indefinido;Sí, sutil;No;No;No;No;No;Sí, sutil;No;Sí, claro y dominante;No;No;No;No;malignant
+ISIC_0000471;Indefinido;Sí, sutil;No;Sí, sutil;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;benign
+ISIC_0000473;Indefinido;Sí, claro;No;No;No;No;No;No;Sí, sutil;Sí, claro y dominante;No;No;No;No;benign
+ISIC_0000474;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, claro;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000475;Indefinido;Sí, claro;No;No;No;No;No;No;No;Sí, claro;No;No;No;No;benign
+ISIC_0000477;Homogéneo;No;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000478;Indefinido;Sí, sutil;No;No;No;No;No;No;Sí, claro;Sí, claro;No;No;No;No;benign
+ISIC_0000480;Indefinido;Sí, claro;No;Sí, sutil;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;benign
+ISIC_0000481;Multicomponente ( mezcla 3 o más anteriores );Sí, claro;No;Sí, sutil;No;No;No;No;No;Sí, claro y dominante;Sí, sutil;No;No;No;benign
+ISIC_0000483;Reticular difuso;Sí, claro y dominante;No;Sí, sutil;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000485;Indefinido;Sí, sutil;No;No;No;No;No;No;No;Sí, claro y dominante;Sí, sutil;No;No;No;benign
+ISIC_0000486;Reticular difuso;Sí, claro y dominante;No;Sí, sutil;No;Sí, sutil;No;No;No;No;No;No;No;No;benign
+ISIC_0000488;Indefinido;No;No;Sí, sutil;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;benign
+ISIC_0000489;Indefinido;No;No;Sí, claro;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;benign
+ISIC_0000491;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;Sí, sutil;No;No;No;No;No;No;benign
+ISIC_0000492;Indefinido;Sí, sutil;No;No;No;No;No;No;Sí, claro;Sí, claro y dominante;No;No;No;No;benign
+ISIC_0000493;Reticular difuso;No;No;Sí, sutil;No;No;No;No;No;Sí, claro;No;No;No;No;benign
+ISIC_0000495;Reticular difuso;Sí, claro y dominante;No;Sí, sutil;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000496;Reticular difuso;Sí, claro y dominante;No;Sí, claro;No;No;No;No;No;No;Sí, sutil;No;No;No;benign
+ISIC_0000498;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;Sí, claro;No;No;No;No;benign
+ISIC_0000500;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000503;Reticular difuso;Sí, claro y dominante;No;Sí, sutil;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000504;Indefinido;No;No;Sí, sutil;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;benign
+ISIC_0000505;Mixto (mezcla dos de los anteriores);Sí, claro;No;Sí, claro;No;No;No;Sí, sutil;No;No;Sí, sutil;No;No;No;benign
+ISIC_0000506;Globular;No;No;Sí, claro y dominante;No;Sí, claro;No;No;No;Sí, sutil;No;No;No;No;benign
+ISIC_0000507;Indefinido;Sí, sutil;Sí, sutil;Sí, sutil;No;No;No;No;No;Sí, claro;No;No;No;No;benign
+ISIC_0000511;Indefinido;Sí, sutil;No;No;No;No;No;No;Sí, claro;Sí, claro y dominante;Sí, claro;No;No;No;benign
+ISIC_0000513;Mixto (mezcla dos de los anteriores);Sí, claro;No;No;No;No;Sí, sutil;Sí, claro;No;No;No;No;No;No;malignant
+ISIC_0000514;Reticular difuso;Sí, claro;No;No;No;No;No;No;No;No;Sí, sutil;No;No;No;benign
+ISIC_0000516;Indefinido;Sí, claro;No;No;No;No;No;No;No;No;No;Sí, claro;Sí, claro;No;malignant
+ISIC_0000517;Indefinido;No;No;No;No;No;No;No;No;No;Sí, claro;No;No;No;malignant
+ISIC_0000519;Indefinido;Sí, claro y dominante;No;Sí, sutil;No;No;No;No;No;No;Sí, claro;Sí, claro;No;No;malignant
+ISIC_0000520;Indefinido;Sí, sutil;No;No;No;No;No;No;Sí, claro;No;Sí, claro;No;Sí, claro;No;malignant
+ISIC_0000521;Reticular difuso;No;No;No;No;No;No;No;No;No;No;No;Sí, claro;No;malignant
+ISIC_0000522;Indefinido;No;No;No;No;Sí, sutil;No;No;No;Sí, claro y dominante;Sí, sutil;Sí, claro;No;No;malignant
+ISIC_0000523;Homogéneo;No;No;No;No;No;No;Sí, claro y dominante;Sí, sutil;Sí, sutil;No;No;No;No;benign
+ISIC_0000524;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;Sí, sutil;No;benign
+ISIC_0000528;Multicomponente ( mezcla 3 o más anteriores );Sí, sutil;No;Sí, sutil;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000529;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000530;Indefinido;Sí, sutil;No;No;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;benign
+ISIC_0000531;Indefinido;Sí, sutil;No;No;No;No;No;Sí, sutil;No;Sí, claro y dominante;No;No;No;No;malignant
+ISIC_0000532;Reticular difuso;Sí, claro y dominante;No;Sí, sutil;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000535;Indefinido;Sí, sutil;No;Sí, sutil;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;benign
+ISIC_0000536;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000538;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;No;No;No;No;Sí, claro;No;No;No;No;No;No;benign
+ISIC_0000541;Mixto (mezcla dos de los anteriores);Sí, claro;No;No;No;No;No;Sí, claro;No;No;No;No;No;No;benign
+ISIC_0000542;Reticular parcheado;Sí, claro y dominante;No;Sí, sutil;No;No;No;No;No;No;No;Sí, sutil;No;No;benign
+ISIC_0000543;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000544;Mixto (mezcla dos de los anteriores);No;No;Sí, sutil;No;Sí, claro y dominante;Sí, claro;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0000545;Empedrado;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000546;Indefinido;Sí, sutil;Sí, sutil;No;No;No;No;No;No;Sí, claro;No;No;No;No;benign
+ISIC_0000548;Indefinido;Sí, sutil;No;No;No;No;No;No;No;Sí, claro y dominante;Sí, claro;No;No;No;malignant
+ISIC_0000551;Indefinido;Sí, sutil;No;No;No;No;No;No;Sí, claro y dominante;Sí, sutil;No;No;No;No;malignant
+ISIC_0000552;Multicomponente ( mezcla 3 o más anteriores );Sí, sutil;No;Sí, claro;No;Sí, sutil;Sí, claro y dominante;No;No;Sí, claro;No;No;Sí, sutil;No;malignant
+ISIC_0000554;Indefinido;Sí, sutil;Sí, sutil;No;No;No;No;No;No;No;Sí, claro;Sí, claro;Sí, claro;No;malignant
+ISIC_0000555;Indefinido;Sí, sutil;No;No;No;No;No;No;Sí, sutil;Sí, claro y dominante;No;Sí, claro;No;No;malignant
+ISIC_0000556;Reticular difuso;Sí, claro y dominante;No;Sí, sutil;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000882;Reticular parcheado;Sí, claro;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0000900;Indefinido;Sí, sutil;No;No;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;benign
+ISIC_0000999;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0001102;Indefinido;No;No;No;No;No;Sí, claro y dominante;Sí, claro;No;No;No;No;Sí, claro;Sí, claro;malignant
+ISIC_0001105;Indefinido;No;Sí, claro y dominante;No;No;Sí, claro y dominante;No;No;No;No;No;No;No;No;malignant
+ISIC_0001106;Indefinido;Sí, sutil;No;No;No;Sí, sutil;No;No;Sí, claro;No;Sí, sutil;No;No;No;malignant
+ISIC_0001118;Multicomponente ( mezcla 3 o más anteriores );Sí, claro;No;Sí, sutil;No;No;Sí, sutil;No;No;No;Sí, claro;No;Sí, claro;No;malignant
+ISIC_0001119;Mixto (mezcla dos de los anteriores);No;No;No;No;Sí, claro;Sí, claro y dominante;Sí, claro y dominante;No;No;No;No;No;No;malignant
+ISIC_0001126;Indefinido;Sí, sutil;No;Sí, sutil;No;No;No;No;Sí, sutil;Sí, claro;No;Sí, claro;No;No;malignant
+ISIC_0001133;Indefinido;No;Sí, claro y dominante;No;No;No;No;No;Sí, claro;No;No;Sí, claro;Sí, claro;No;malignant
+ISIC_0001134;Indefinido;Sí, sutil;No;No;No;No;Sí, claro y dominante;No;No;Sí, claro y dominante;No;No;No;No;malignant
+ISIC_0001140;Indefinido;Sí, sutil;No;No;No;No;Sí, claro;Sí, claro;No;No;No;No;Sí, claro;No;malignant
+ISIC_0001148;Indefinido;Sí, claro;No;No;No;No;No;No;No;No;Sí, sutil;Sí, claro;No;No;malignant
+ISIC_0001152;Multicomponente ( mezcla 3 o más anteriores );Sí, claro;No;Sí, sutil;No;No;No;No;Sí, claro y dominante;No;No;Sí, claro;Sí, claro;No;malignant
+ISIC_0001163;Indefinido;No;No;No;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;benign
+ISIC_0001184;Indefinido;Sí, sutil;No;No;No;No;No;No;No;Sí, claro;No;No;No;No;benign
+ISIC_0001187;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0001188;Reticular difuso;Sí, sutil;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0001191;Indefinido;No;No;No;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;benign
+ISIC_0001212;Indefinido;No;No;Sí, sutil;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;benign
+ISIC_0001213;Mixto (mezcla dos de los anteriores);No;No;Sí, claro;No;No;No;Sí, claro;No;No;No;No;No;No;benign
+ISIC_0001216;Indefinido;No;No;No;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;benign
+ISIC_0001247;Mixto (mezcla dos de los anteriores);No;No;Sí, claro;No;No;No;Sí, claro;No;No;No;No;No;No;benign
+ISIC_0001254;Mixto (mezcla dos de los anteriores);No;No;Sí, sutil;No;No;No;Sí, claro;No;No;No;No;No;No;benign
+ISIC_0001262;Indefinido;No;No;Sí, sutil;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;benign
+ISIC_0001267;Indefinido;No;No;Sí, sutil;No;No;No;No;No;Sí, claro;No;No;No;No;benign
+ISIC_0001275;Indefinido;No;No;Sí, sutil;No;No;No;No;No;Sí, claro;No;No;No;No;benign
+ISIC_0001286;Indefinido;Sí, sutil;No;No;No;No;No;No;No;Sí, claro;No;No;No;No;benign
+ISIC_0001292;Indefinido;Sí, sutil;No;No;No;No;No;No;No;Sí, claro;No;No;No;No;benign
+ISIC_0001296;Indefinido;Sí, sutil;No;No;No;No;No;No;No;Sí, claro;No;No;No;No;benign
+ISIC_0001306;Indefinido;No;No;Sí, sutil;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;benign
+ISIC_0001367;Reticular difuso;Sí, claro;No;Sí, sutil;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0001372;Indefinido;No;No;Sí, sutil;No;No;No;No;No;Sí, claro;No;No;No;No;benign
+ISIC_0001374;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0001385;Indefinido;No;No;Sí, sutil;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;benign
+ISIC_0001423;Indefinido;No;No;Sí, sutil;No;No;No;No;No;Sí, claro;No;No;No;No;benign
+ISIC_0001442;Globular;No;No;Sí, sutil;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0001449;Globular;No;No;Sí, claro;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0001742;Globular;No;No;Sí, claro;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0002093;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0002206;Indefinido;No;No;Sí, sutil;No;No;No;No;No;Sí, claro;No;No;No;No;benign
+ISIC_0002251;Indefinido;Sí, sutil;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0002287;Globular;No;No;Sí, claro;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0002353;Indefinido;No;No;Sí, sutil;No;No;No;No;No;Sí, claro;No;No;No;No;benign
+ISIC_0002374;Globular;No;No;Sí, claro;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0002438;Indefinido;Sí, sutil;No;Sí, sutil;No;No;No;No;No;Sí, claro;Sí, sutil;No;No;No;benign
+ISIC_0002439;Indefinido;Sí, sutil;No;No;Sí, sutil;No;No;No;No;No;Sí, sutil;No;No;No;benign
+ISIC_0002453;Homogéneo;No;No;No;No;No;No;Sí, claro y dominante;Sí, sutil;No;No;No;No;No;benign
+ISIC_0002459;Homogéneo;No;No;No;No;No;No;Sí, claro y dominante;Sí, sutil;No;No;No;No;No;benign
+ISIC_0002469;Indefinido;Sí, sutil;No;No;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;benign
+ISIC_0002476;Homogéneo;No;No;Sí, sutil;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0002488;Homogéneo;No;Sí, sutil;No;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0002489;Reticular difuso;Sí, sutil;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0002616;Indefinido;No;No;Sí, sutil;No;No;No;No;No;Sí, claro;No;No;No;No;benign
+ISIC_0002647;Mixto (mezcla dos de los anteriores);No;No;Sí, claro;No;No;No;Sí, claro;No;No;No;No;No;No;benign
+ISIC_0002780;Indefinido;No;No;Sí, claro;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;benign
+ISIC_0002806;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;Sí, sutil;No;No;No;No;No;No;benign
+ISIC_0002836;Globular;No;No;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0002879;Indefinido;No;No;Sí, sutil;No;No;No;No;No;Sí, claro;Sí, sutil;No;No;No;benign
+ISIC_0002885;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, claro;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0002948;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;Sí, sutil;No;No;No;No;No;No;benign
+ISIC_0002975;Indefinido;Sí, sutil;No;Sí, sutil;No;No;No;No;No;Sí, claro;No;No;No;No;benign
+ISIC_0002976;Reticular difuso;Sí, sutil;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0003005;Indefinido;No;No;Sí, sutil;No;No;No;No;No;Sí, claro;No;No;No;No;benign
+ISIC_0003051;Globular;No;No;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0003174;Mixto (mezcla dos de los anteriores);No;No;Sí, claro;No;No;No;Sí, claro;No;No;No;No;No;No;benign
+ISIC_0003308;Indefinido;No;No;No;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;benign
+ISIC_0003346;Reticular difuso;Sí, sutil;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0004110;Globular;No;No;Sí, claro;No;No;No;No;No;Sí, sutil;No;No;No;No;benign
+ISIC_0004166;Reticular difuso;Sí, sutil;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0004168;Reticular difuso;Sí, sutil;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0004309;Indefinido;No;No;Sí, sutil;Sí, sutil;No;No;Sí, claro;No;Sí, claro;No;No;No;No;benign
+ISIC_0004715;Homogéneo;No;No;Sí, sutil;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0004985;Homogéneo;No;No;Sí, sutil;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0005187;Mixto (mezcla dos de los anteriores);Sí, sutil;No;Sí, claro;No;No;No;Sí, sutil;No;No;No;No;No;No;benign
+ISIC_0005247;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;Sí, sutil;No;No;No;No;No;No;benign
+ISIC_0005548;Mixto (mezcla dos de los anteriores);Sí, claro;No;Sí, claro;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0005555;Reticular difuso;Sí, claro;No;No;No;No;No;No;No;Sí, claro;No;No;No;No;benign
+ISIC_0005564;Reticular difuso;Sí, claro y dominante;No;Sí, sutil;No;No;No;Sí, sutil;No;No;No;No;No;No;benign
+ISIC_0005620;Empedrado;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;benign
+ISIC_0005639;Mixto (mezcla dos de los anteriores);Sí, claro;No;Sí, claro;Sí, sutil;No;No;Sí, sutil;No;No;No;No;No;No;benign
+ISIC_0005666;Homogéneo;Sí, sutil;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0005787;Mixto (mezcla dos de los anteriores);No;No;Sí, sutil;No;No;No;Sí, claro;No;No;No;No;No;No;benign
+ISIC_0006021;Indefinido;No;No;No;No;No;No;Sí, claro y dominante;No;Sí, claro;No;Sí, sutil;No;No;benign
+ISIC_0006114;Indefinido;No;No;Sí, sutil;No;No;No;Sí, claro y dominante;Sí, sutil;Sí, sutil;No;No;No;No;benign
+ISIC_0006326;Mixto (mezcla dos de los anteriores);Sí, sutil;No;Sí, claro;Sí, claro;No;No;Sí, sutil;No;No;No;No;No;No;benign
+ISIC_0006350;Indefinido;Sí, sutil;No;Sí, sutil;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0006612;Reticular difuso;Sí, sutil;No;No;No;No;No;Sí, sutil;No;No;No;No;No;No;benign
+ISIC_0006776;Reticular difuso;Sí, sutil;No;No;No;No;No;No;No;Sí, sutil;No;No;No;No;benign
+ISIC_0006795;Indefinido;Sí, sutil;No;Sí, sutil;No;No;No;Sí, claro;No;No;No;No;No;No;benign
+ISIC_0006800;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, sutil;No;Sí, sutil;No;Sí, sutil;No;No;No;No;No;No;benign
+ISIC_0006940;Indefinido;Sí, sutil;No;Sí, sutil;No;No;No;No;No;No;No;Sí, claro;No;No;benign
+ISIC_0006982;Indefinido;Sí, sutil;No;Sí, sutil;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;benign
+ISIC_0007038;Indefinido;No;No;Sí, sutil;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;benign
+ISIC_0007087;Globular;Sí, sutil;No;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0007475;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;Sí, sutil;No;No;No;No;No;No;benign
+ISIC_0007557;Mixto (mezcla dos de los anteriores);No;No;Sí, claro y dominante;Sí, claro;No;No;No;No;No;No;No;No;No;benign
+ISIC_0007760;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0007788;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0008029;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0008145;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0008236;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0008256;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0008280;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0008294;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0008347;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0008396;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0008403;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0008524;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0008528;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0008541;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0008552;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0008785;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0008807;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0008879;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0008913;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0008993;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009160;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009165;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009188;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009252;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009297;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009344;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009430;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009504;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009505;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009533;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009583;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009599;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009758;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009800;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009860;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009868;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;malignant
+ISIC_0009870;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009871;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009873;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009875;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009877;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009883;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009884;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009888;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009893;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009895;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009896;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009897;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;malignant
+ISIC_0009899;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009900;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009904;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009905;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;malignant
+ISIC_0009909;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009910;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;malignant
+ISIC_0009911;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009912;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009914;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009915;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009917;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009919;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009921;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009925;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009929;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009932;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009933;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009934;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;malignant
+ISIC_0009935;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009936;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009937;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009938;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009939;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009940;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009941;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009942;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009944;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009947;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009949;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009950;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;malignant
+ISIC_0009951;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009953;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009960;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;malignant
+ISIC_0009961;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009962;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009963;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009964;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009966;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009967;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009968;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009969;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009971;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;malignant
+ISIC_0009972;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009973;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009974;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009975;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009976;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009978;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009979;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009981;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009983;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009986;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009987;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009991;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0009995;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010000;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;malignant
+ISIC_0010001;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;malignant
+ISIC_0010002;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010003;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010005;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010006;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010010;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010014;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010015;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010017;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010019;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010021;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010022;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010024;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;malignant
+ISIC_0010025;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010029;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;malignant
+ISIC_0010032;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010035;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010036;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;malignant
+ISIC_0010040;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010042;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010043;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010044;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010046;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010051;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010052;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010053;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010054;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;malignant
+ISIC_0010056;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;malignant
+ISIC_0010057;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010060;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010063;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010064;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010065;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010066;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010067;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;malignant
+ISIC_0010068;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010069;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010070;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010071;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010074;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010075;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010078;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010079;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010080;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;malignant
+ISIC_0010081;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;malignant
+ISIC_0010083;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010086;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010087;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010090;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010091;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010093;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010094;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010101;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010102;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010104;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010105;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010168;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010169;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010170;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010174;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;malignant
+ISIC_0010176;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010177;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010178;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010182;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010184;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010185;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010186;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010189;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;malignant
+ISIC_0010191;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010194;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;malignant
+ISIC_0010203;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010204;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010205;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010212;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010213;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010218;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010219;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010220;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010222;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010223;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010225;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;malignant
+ISIC_0010226;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010227;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010228;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010230;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010232;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010233;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010235;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;malignant
+ISIC_0010236;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010237;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010239;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010240;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;malignant
+ISIC_0010241;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;malignant
+ISIC_0010242;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;malignant
+ISIC_0010244;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010246;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010247;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010248;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010249;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010251;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;malignant
+ISIC_0010252;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010256;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010262;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010263;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010264;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010265;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;malignant
+ISIC_0010266;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;malignant
+ISIC_0010267;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;malignant
+ISIC_0010317;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010318;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010319;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;malignant
+ISIC_0010320;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010321;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;malignant
+ISIC_0010322;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;malignant
+ISIC_0010323;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010324;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010325;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010327;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010329;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;malignant
+ISIC_0010330;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010332;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010333;Reticular difuso;No;No;No;No;No;No;No;Sí, claro y dominante;No;Sí, sutil;No;No;No;benign
+ISIC_0010334;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, sutil;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010335;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010337;Indefinido;Sí, sutil;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0010339;Multicomponente ( mezcla 3 o más anteriores );Sí, sutil;No;Sí, sutil;No;No;No;Sí, claro;No;No;Sí, claro;No;No;No;benign
+ISIC_0010341;Homogéneo;No;No;No;No;Sí, claro;No;No;No;No;No;No;No;No;benign
+ISIC_0010342;Indefinido;Sí, claro;Sí, sutil;Sí, sutil;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010344;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010349;Multicomponente ( mezcla 3 o más anteriores );Sí, sutil;No;Sí, sutil;No;Sí, sutil;No;Sí, sutil;No;No;Sí, sutil;Sí, sutil;No;No;malignant
+ISIC_0010350;Mixto (mezcla dos de los anteriores);Sí, claro;No;Sí, sutil;No;Sí, sutil;Sí, claro;Sí, claro;No;No;No;No;Sí, sutil;No;malignant
+ISIC_0010351;Indefinido;No;No;Sí, claro;No;No;No;No;No;No;Sí, claro;No;No;No;benign
+ISIC_0010352;Homogéneo;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010356;Indefinido;No;No;Sí, sutil;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010357;Indefinido;Sí, sutil;No;Sí, claro;No;No;No;No;No;No;Sí, claro;No;No;No;benign
+ISIC_0010358;Multicomponente ( mezcla 3 o más anteriores );Sí, sutil;No;Sí, sutil;No;No;Sí, claro;No;No;Sí, sutil;Sí, claro;No;No;No;malignant
+ISIC_0010361;Indefinido;No;No;No;No;No;No;No;Sí, claro;No;Sí, claro;No;No;No;benign
+ISIC_0010362;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010364;Multicomponente ( mezcla 3 o más anteriores );No;Sí, claro;Sí, sutil;No;No;Sí, sutil;No;No;Sí, sutil;Sí, sutil;No;No;No;malignant
+ISIC_0010365;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010367;Mixto (mezcla dos de los anteriores);Sí, claro;No;No;No;No;No;No;No;No;No;Sí, claro;No;No;benign
+ISIC_0010370;Indefinido;No;No;Sí, claro;No;No;No;No;No;Sí, claro;Sí, claro;No;No;No;benign
+ISIC_0010371;Reticular parcheado;Sí, claro;No;Sí, sutil;No;No;No;No;No;No;Sí, claro;Sí, sutil;No;No;benign
+ISIC_0010372;Multicomponente ( mezcla 3 o más anteriores );No;No;Sí, claro;No;No;No;No;Sí, claro;No;Sí, sutil;Sí, sutil;No;No;malignant
+ISIC_0010380;Indefinido;No;No;No;Sí, sutil;No;No;Sí, sutil;No;Sí, sutil;Sí, sutil;No;No;No;malignant
+ISIC_0010382;Mixto (mezcla dos de los anteriores);No;No;Sí, claro;No;No;No;Sí, claro;No;No;No;No;No;No;benign
+ISIC_0010435;Indefinido;No;No;No;Sí, sutil;No;No;Sí, claro;No;No;No;No;No;No;benign
+ISIC_0010436;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010438;Globular;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010439;Reticular difuso;Sí, claro;No;No;Sí, sutil;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010440;Indefinido;No;No;No;No;No;No;Sí, claro;No;No;No;No;No;No;benign
+ISIC_0010441;Indefinido;No;No;Sí, sutil;Sí, claro;No;No;No;Sí, claro;No;Sí, sutil;Sí, sutil;No;No;malignant
+ISIC_0010442;Mixto (mezcla dos de los anteriores);Sí, claro;No;Sí, claro;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010443;Mixto (mezcla dos de los anteriores);Sí, claro;No;No;Sí, claro;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010445;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010447;Empedrado;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010450;Mixto (mezcla dos de los anteriores);Sí, claro;No;Sí, claro;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010455;Mixto (mezcla dos de los anteriores);Sí, claro;No;Sí, claro;No;No;No;Sí, claro;No;No;No;No;No;No;benign
+ISIC_0010457;Indefinido;No;No;Sí, sutil;No;No;No;No;Sí, claro;No;No;No;No;No;benign
+ISIC_0010458;Globular;No;No;No;Sí, claro y dominante;No;No;No;Sí, sutil;No;No;No;No;No;benign
+ISIC_0010459;Globular;No;No;Sí, sutil;Sí, claro;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010461;Globular;No;No;No;Sí, claro;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010462;Homogéneo;Sí, sutil;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0010464;Globular;No;No;Sí, sutil;Sí, claro;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010465;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010466;Multicomponente ( mezcla 3 o más anteriores );Sí, sutil;No;Sí, claro;No;No;No;No;No;No;Sí, claro;No;No;No;malignant
+ISIC_0010467;Indefinido;No;No;Sí, sutil;No;No;No;No;No;No;Sí, claro;No;No;No;benign
+ISIC_0010468;Mixto (mezcla dos de los anteriores);Sí, claro;No;No;Sí, sutil;No;No;No;No;No;Sí, claro;Sí, sutil;No;No;malignant
+ISIC_0010471;Reticular difuso;Sí, claro y dominante;No;Sí, sutil;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010472;Mixto (mezcla dos de los anteriores);Sí, claro;No;Sí, sutil;Sí, claro;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010473;Indefinido;Sí, sutil;No;Sí, sutil;No;No;No;No;No;No;No;Sí, sutil;No;No;benign
+ISIC_0010475;Indefinido;Sí, sutil;No;Sí, sutil;No;No;No;Sí, claro;No;No;No;No;No;No;benign
+ISIC_0010476;Indefinido;No;No;Sí, claro;No;No;No;Sí, claro;No;No;No;Sí, sutil;No;No;malignant
+ISIC_0010479;Globular;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010480;Mixto (mezcla dos de los anteriores);Sí, claro;No;Sí, sutil;No;Sí, sutil;No;No;No;No;No;No;No;No;benign
+ISIC_0010481;Mixto (mezcla dos de los anteriores);Sí, sutil;No;Sí, sutil;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0010487;Indefinido;No;No;Sí, claro;No;No;No;Sí, claro;No;No;No;No;No;No;benign
+ISIC_0010488;Reticular parcheado;Sí, claro;No;No;No;No;No;Sí, sutil;No;No;No;No;No;No;benign
+ISIC_0010490;Mixto (mezcla dos de los anteriores);Sí, claro;No;Sí, sutil;No;No;No;No;Sí, claro;No;No;No;No;No;benign
+ISIC_0010491;Indefinido;No;No;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;No;benign
+ISIC_0010492;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010493;Mixto (mezcla dos de los anteriores);Sí, claro;No;Sí, claro;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010495;Indefinido;Sí, claro;No;Sí, claro y dominante;No;No;No;No;No;No;Sí, sutil;No;No;No;malignant
+ISIC_0010496;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;Sí, claro;No;No;benign
+ISIC_0010497;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;Sí, claro;No;No;benign
+ISIC_0010554;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010557;Mixto (mezcla dos de los anteriores);No;No;Sí, claro;No;No;No;Sí, sutil;No;No;No;No;No;No;benign
+ISIC_0010558;Mixto (mezcla dos de los anteriores);Sí, claro;No;Sí, claro;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010562;Globular;No;No;Sí, claro;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010566;Mixto (mezcla dos de los anteriores);Sí, claro;No;Sí, sutil;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010567;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010568;Reticular parcheado;Sí, claro y dominante;No;No;No;No;No;Sí, sutil;No;No;No;No;No;No;benign
+ISIC_0010569;Indefinido;No;No;Sí, claro;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010570;Empedrado;Sí, sutil;No;No;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010571;Globular;No;No;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010572;Globular;No;No;Sí, sutil;Sí, sutil;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010573;Reticular parcheado;Sí, claro;No;Sí, sutil;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010575;Globular;No;No;Sí, sutil;Sí, claro;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010576;Mixto (mezcla dos de los anteriores);No;No;Sí, sutil;No;Sí, sutil;No;No;No;Sí, claro;Sí, sutil;No;No;No;malignant
+ISIC_0010577;Reticular difuso;No;No;Sí, claro;No;No;No;No;No;No;Sí, claro;No;No;No;benign
+ISIC_0010581;Empedrado;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010585;Indefinido;No;No;Sí, claro;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010586;Homogéneo;No;No;No;Sí, sutil;No;No;Sí, claro;No;No;No;No;No;No;benign
+ISIC_0010589;Reticular parcheado;Sí, claro y dominante;No;Sí, sutil;No;Sí, sutil;No;No;No;No;No;No;No;No;benign
+ISIC_0010590;Indefinido;No;No;No;Sí, sutil;No;No;Sí, sutil;No;No;No;No;No;No;benign
+ISIC_0010593;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;No;Sí, claro;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010594;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010595;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010602;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;No;Sí, claro;Sí, claro;No;No;No;No;No;No;No;No;benign
+ISIC_0010603;Globular;No;No;No;Sí, claro;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010605;Mixto (mezcla dos de los anteriores);Sí, sutil;No;No;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0010844;Globular;No;No;Sí, sutil;Sí, claro;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010848;Indefinido;Sí, sutil;No;Sí, sutil;No;No;No;No;No;No;Sí, sutil;No;No;No;benign
+ISIC_0010849;Indefinido;No;No;Sí, claro;No;No;No;No;No;No;Sí, sutil;Sí, claro;No;No;benign
+ISIC_0010850;Mixto (mezcla dos de los anteriores);No;No;No;Sí, claro;Sí, claro;No;Sí, claro y dominante;No;No;No;No;No;No;benign
+ISIC_0010851;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010852;Multicomponente ( mezcla 3 o más anteriores );Sí, sutil;No;No;Sí, sutil;No;Sí, sutil;No;No;No;Sí, sutil;No;No;No;malignant
+ISIC_0010853;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010857;Reticular parcheado;Sí, claro y dominante;No;No;No;No;No;Sí, sutil;No;No;No;No;No;No;benign
+ISIC_0010858;Globular;No;No;No;Sí, claro;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010860;Multicomponente ( mezcla 3 o más anteriores );Sí, claro;No;No;No;Sí, sutil;No;Sí, claro;No;No;Sí, sutil;No;Sí, sutil;No;malignant
+ISIC_0010861;Mixto (mezcla dos de los anteriores);Sí, claro;No;No;Sí, claro;No;No;No;No;No;No;No;No;No;benign
+ISIC_0010862;Indefinido;No;Sí, claro y dominante;No;Sí, claro;Sí, claro;No;No;No;No;No;No;No;No;malignant
+ISIC_0010864;Mixto (mezcla dos de los anteriores);Sí, claro;No;Sí, claro;Sí, claro;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011079;Mixto (mezcla dos de los anteriores);Sí, claro;No;No;Sí, claro;No;No;Sí, sutil;No;No;No;No;No;No;benign
+ISIC_0011082;Mixto (mezcla dos de los anteriores);Sí, claro;No;No;Sí, sutil;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011084;Indefinido;No;No;No;Sí, sutil;No;No;Sí, claro;No;No;Sí, sutil;No;No;No;benign
+ISIC_0011085;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;No;Sí, claro;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011088;Mixto (mezcla dos de los anteriores);Sí, sutil;No;No;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011095;Mixto (mezcla dos de los anteriores);Sí, sutil;No;Sí, claro;No;No;Sí, sutil;No;No;No;Sí, sutil;No;No;No;malignant
+ISIC_0011097;Mixto (mezcla dos de los anteriores);No;No;Sí, claro y dominante;No;Sí, claro;No;Sí, sutil;No;No;No;No;No;No;benign
+ISIC_0011099;Multicomponente ( mezcla 3 o más anteriores );Sí, sutil;Sí, claro;No;Sí, claro;Sí, sutil;Sí, claro;No;No;No;No;Sí, sutil;No;No;malignant
+ISIC_0011100;Mixto (mezcla dos de los anteriores);Sí, claro;No;Sí, sutil;Sí, claro;No;No;Sí, claro;No;No;No;No;No;No;benign
+ISIC_0011102;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, sutil;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011105;Mixto (mezcla dos de los anteriores);Sí, claro;No;Sí, claro;Sí, sutil;Sí, sutil;No;No;No;No;No;No;No;No;benign
+ISIC_0011109;Indefinido;No;No;No;No;No;No;Sí, claro;No;No;No;No;No;No;benign
+ISIC_0011114;Indefinido;Sí, claro;No;Sí, sutil;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011115;Mixto (mezcla dos de los anteriores);Sí, sutil;No;No;Sí, claro y dominante;No;No;No;No;No;Sí, sutil;No;No;No;benign
+ISIC_0011116;Indefinido;No;No;Sí, claro y dominante;No;No;No;No;No;No;Sí, claro;No;No;No;benign
+ISIC_0011117;Globular;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011118;Multicomponente ( mezcla 3 o más anteriores );Sí, sutil;No;Sí, sutil;No;Sí, sutil;Sí, sutil;No;No;No;Sí, sutil;Sí, claro;No;No;malignant
+ISIC_0011119;Globular;No;No;Sí, sutil;Sí, claro;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011120;Indefinido;No;No;No;Sí, sutil;No;No;No;Sí, claro;No;No;Sí, claro;No;No;benign
+ISIC_0011121;Multicomponente ( mezcla 3 o más anteriores );Sí, claro;No;Sí, sutil;Sí, sutil;No;No;No;Sí, claro;No;Sí, sutil;No;No;No;malignant
+ISIC_0011123;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, sutil;No;Sí, sutil;No;No;No;No;No;No;No;No;benign
+ISIC_0011124;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011125;Multicomponente ( mezcla 3 o más anteriores );Sí, sutil;No;No;Sí, claro;Sí, claro y dominante;Sí, claro;Sí, sutil;Sí, sutil;No;No;No;No;No;malignant
+ISIC_0011126;Multicomponente ( mezcla 3 o más anteriores );Sí, claro;No;Sí, sutil;No;No;Sí, claro;No;No;No;Sí, sutil;Sí, claro;Sí, claro;No;malignant
+ISIC_0011127;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011128;Indefinido;No;No;No;No;No;No;Sí, claro;No;No;Sí, sutil;No;No;No;malignant
+ISIC_0011130;Multicomponente ( mezcla 3 o más anteriores );Sí, claro;No;Sí, sutil;No;No;No;No;No;No;Sí, claro;No;No;No;malignant
+ISIC_0011131;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011135;Multicomponente ( mezcla 3 o más anteriores );Sí, sutil;No;Sí, sutil;Sí, claro;Sí, claro;Sí, claro;Sí, sutil;No;No;No;No;No;No;malignant
+ISIC_0011136;Indefinido;No;No;Sí, sutil;No;No;No;Sí, sutil;No;No;No;No;No;No;malignant
+ISIC_0011137;Multicomponente ( mezcla 3 o más anteriores );Sí, claro;Sí, claro;Sí, sutil;Sí, sutil;No;No;Sí, sutil;No;No;No;No;No;No;malignant
+ISIC_0011139;Multicomponente ( mezcla 3 o más anteriores );Sí, claro;No;Sí, sutil;No;No;No;Sí, claro;No;No;No;No;No;No;malignant
+ISIC_0011140;Mixto (mezcla dos de los anteriores);No;No;No;Sí, claro;No;No;Sí, claro;No;No;Sí, sutil;No;No;No;malignant
+ISIC_0011141;Multicomponente ( mezcla 3 o más anteriores );No;No;Sí, claro;No;Sí, sutil;Sí, claro;No;Sí, claro;No;Sí, claro;No;No;No;malignant
+ISIC_0011144;Mixto (mezcla dos de los anteriores);Sí, claro;No;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011145;Reticular difuso;Sí, claro y dominante;No;Sí, sutil;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011146;Globular;No;No;Sí, sutil;Sí, claro;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011156;Mixto (mezcla dos de los anteriores);Sí, claro;No;No;Sí, claro;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011157;Globular;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011158;Multicomponente ( mezcla 3 o más anteriores );Sí, claro;No;No;No;Sí, sutil;No;No;Sí, claro y dominante;No;Sí, claro;Sí, claro;No;No;malignant
+ISIC_0011159;Mixto (mezcla dos de los anteriores);Sí, claro;No;Sí, sutil;Sí, claro;Sí, claro;No;No;Sí, claro;No;No;No;No;No;benign
+ISIC_0011161;Multicomponente ( mezcla 3 o más anteriores );Sí, sutil;Sí, claro;Sí, sutil;No;Sí, sutil;No;No;Sí, claro;No;Sí, claro;Sí, claro;No;No;malignant
+ISIC_0011163;Globular;No;No;No;Sí, claro;Sí, claro;Sí, sutil;No;No;No;No;No;No;No;malignant
+ISIC_0011164;Indefinido;No;No;Sí, sutil;No;No;No;No;No;Sí, claro;No;No;No;No;benign
+ISIC_0011165;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;No;No;No;No;Sí, claro;No;No;No;No;No;No;benign
+ISIC_0011166;Mixto (mezcla dos de los anteriores);Sí, claro;No;Sí, claro;No;No;Sí, sutil;No;No;No;Sí, claro;No;No;No;malignant
+ISIC_0011169;Mixto (mezcla dos de los anteriores);Sí, claro;No;Sí, sutil;No;No;No;Sí, claro;No;No;No;No;No;No;malignant
+ISIC_0011170;Indefinido;Sí, sutil;No;No;No;No;No;Sí, claro;No;No;No;No;No;No;benign
+ISIC_0011173;Mixto (mezcla dos de los anteriores);Sí, sutil;No;No;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011199;Homogéneo;No;No;Sí, sutil;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011200;Reticular difuso;No;No;Sí, sutil;No;Sí, sutil;No;No;No;No;No;No;No;No;benign
+ISIC_0011202;Indefinido;Sí, sutil;No;No;No;No;No;Sí, claro;No;No;No;No;No;No;benign
+ISIC_0011203;Globular;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011207;Globular;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011208;Mixto (mezcla dos de los anteriores);Sí, sutil;No;Sí, sutil;Sí, sutil;No;No;No;No;No;Sí, claro;No;No;No;benign
+ISIC_0011210;Globular;No;No;Sí, sutil;Sí, sutil;Sí, claro;Sí, claro y dominante;No;No;No;No;No;No;No;malignant
+ISIC_0011211;Globular;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011212;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011214;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, claro;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011215;Globular;No;No;Sí, claro;Sí, claro;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011217;Indefinido;No;No;No;No;No;No;No;No;No;Sí, sutil;No;No;No;benign
+ISIC_0011218;Indefinido;No;No;No;No;No;No;Sí, claro;No;No;No;No;No;No;benign
+ISIC_0011220;Indefinido;No;No;No;Sí, sutil;Sí, claro;No;No;No;No;No;No;No;No;benign
+ISIC_0011223;Mixto (mezcla dos de los anteriores);Sí, claro;No;No;Sí, claro;No;No;No;No;No;Sí, claro;No;No;No;benign
+ISIC_0011225;Mixto (mezcla dos de los anteriores);Sí, sutil;No;No;Sí, claro;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011226;Indefinido;No;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011228;Globular;No;No;Sí, sutil;Sí, claro;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011229;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011230;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011295;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;Sí, claro;No;No;No;malignant
+ISIC_0011296;Indefinido;No;No;No;No;No;No;No;Sí, claro;No;No;No;No;No;benign
+ISIC_0011297;Mixto (mezcla dos de los anteriores);Sí, sutil;No;No;No;Sí, claro;No;No;No;No;No;No;No;No;benign
+ISIC_0011299;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011301;Empedrado;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011303;Mixto (mezcla dos de los anteriores);No;No;No;Sí, claro;Sí, claro;No;Sí, claro;No;No;No;No;No;No;benign
+ISIC_0011304;Globular;No;No;No;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011306;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, claro;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011315;Indefinido;No;No;Sí, sutil;No;No;No;No;No;No;Sí, claro;No;No;No;malignant
+ISIC_0011317;Mixto (mezcla dos de los anteriores);No;No;No;Sí, claro y dominante;No;No;Sí, claro;No;No;No;No;No;No;benign
+ISIC_0011322;Reticular difuso;No;No;No;No;No;No;No;No;No;Sí, sutil;No;No;No;benign
+ISIC_0011323;Reticular difuso;Sí, claro y dominante;No;Sí, sutil;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011324;Empedrado;No;No;Sí, sutil;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011326;Mixto (mezcla dos de los anteriores);Sí, sutil;No;No;No;No;No;No;Sí, sutil;No;No;No;No;No;benign
+ISIC_0011327;Globular;No;No;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011328;Globular;No;No;Sí, claro y dominante;Sí, sutil;Sí, claro;No;No;No;No;No;No;No;No;benign
+ISIC_0011329;Multicomponente ( mezcla 3 o más anteriores );No;No;Sí, claro;Sí, sutil;Sí, sutil;No;No;No;No;Sí, claro;No;Sí, claro;Sí, sutil;malignant
+ISIC_0011330;Globular;Sí, sutil;No;No;No;Sí, claro;No;No;No;No;No;No;No;No;benign
+ISIC_0011331;Mixto (mezcla dos de los anteriores);Sí, claro;No;No;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011332;Mixto (mezcla dos de los anteriores);Sí, claro;No;No;No;No;No;Sí, sutil;No;No;Sí, sutil;No;No;No;benign
+ISIC_0011334;Indefinido;No;No;No;No;No;No;No;No;No;Sí, claro;No;No;No;malignant
+ISIC_0011339;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011341;Indefinido;Sí, sutil;No;No;Sí, claro;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011343;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;Sí, claro;No;Sí, claro;No;No;No;No;No;No;No;No;benign
+ISIC_0011345;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011346;Mixto (mezcla dos de los anteriores);Sí, sutil;No;Sí, claro;Sí, claro;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011347;Reticular parcheado;Sí, claro y dominante;No;Sí, sutil;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011348;Multicomponente ( mezcla 3 o más anteriores );Sí, claro;No;Sí, sutil;No;Sí, claro;No;No;Sí, claro;No;Sí, sutil;Sí, claro;No;No;malignant
+ISIC_0011350;Multicomponente ( mezcla 3 o más anteriores );Sí, claro;No;Sí, sutil;No;No;No;No;No;Sí, claro;Sí, sutil;No;No;No;malignant
+ISIC_0011352;Reticular difuso;Sí, claro y dominante;No;Sí, sutil;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011353;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011354;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011356;Indefinido;No;No;Sí, sutil;Sí, sutil;No;No;No;No;No;Sí, claro;No;Sí, claro;No;malignant
+ISIC_0011357;Reticular parcheado;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011358;Reticular parcheado;Sí, claro;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011360;Mixto (mezcla dos de los anteriores);Sí, claro;No;No;Sí, claro;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011361;Mixto (mezcla dos de los anteriores);No;No;No;Sí, claro y dominante;No;No;No;Sí, claro;No;No;No;No;No;benign
+ISIC_0011362;Indefinido;No;No;Sí, sutil;No;No;No;No;No;Sí, claro;No;No;No;No;benign
+ISIC_0011366;Mixto (mezcla dos de los anteriores);Sí, claro y dominante;No;No;No;No;No;Sí, claro;No;No;No;No;No;No;malignant
+ISIC_0011372;Mixto (mezcla dos de los anteriores);Sí, claro;No;No;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011373;Indefinido;Sí, claro;No;Sí, sutil;Sí, sutil;Sí, sutil;No;Sí, claro;No;No;No;No;No;No;benign
+ISIC_0011378;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011380;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011382;Reticular difuso;Sí, claro y dominante;No;Sí, sutil;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011383;Mixto (mezcla dos de los anteriores);Sí, sutil;No;Sí, sutil;Sí, claro;Sí, sutil;No;No;No;No;No;No;No;No;benign
+ISIC_0011385;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011387;Indefinido;No;No;No;No;No;No;No;No;Sí, claro y dominante;Sí, sutil;No;No;No;malignant
+ISIC_0011390;Indefinido;Sí, sutil;No;Sí, claro;No;No;No;No;No;No;Sí, sutil;No;No;No;malignant
+ISIC_0011393;Indefinido;No;No;No;Sí, sutil;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011397;Indefinido;No;No;Sí, claro;No;Sí, sutil;No;No;No;No;Sí, claro;No;No;No;benign
+ISIC_0011398;Reticular difuso;Sí, claro y dominante;No;Sí, sutil;No;No;No;No;No;No;No;No;No;No;benign
+ISIC_0011400;Indefinido;No;No;Sí, sutil;No;No;Sí, sutil;No;No;No;No;No;No;No;benign
+ISIC_0011402;Reticular difuso;Sí, claro y dominante;No;No;No;No;No;No;No;No;No;No;No;No;benign
