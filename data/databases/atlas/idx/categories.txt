@@ -1,0 +1,10 @@
+1 Cobblestone pattern (G) - globular pattern (G) - Globules (L)
+2 homogeneous pattern (G) - starburst pattern (G)
+3 reticular pattern (G) - PigmentNetwork (L)
+4 Streaks (L) - starburst pattern (G)
+5 BlueWVeil (L)
+6 VascularStr (L)
+7 Hypopigmentation (L)
+8 RegressionStr (L)
+9 unspecific pattern (G)
+
