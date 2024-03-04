@@ -1,0 +1,901 @@
+File name (.jpg),Global Pattern,Pigmented Reticulum,Negative Reticulum,Small Dots/Globules,Large Globules/Cobblestone,Peripheral Globules,Peripheral Projections,Homogeneous Area without Vessels,Homogeneous Area with Vessels,Undefined Area,Gray Regression,White Regression,Whitish Blue Veil,Chrysalis,Binary label
+ISIC_0000000,Diffuse Reticular,"Yes, clear and dominant",No,"Yes, subtle",No,No,"Yes, subtle",No,No,"Yes, subtle",No,No,No,No,benign
+ISIC_0000001,Diffuse Reticular,"Yes, clear and dominant",No,"Yes, subtle",No,No,No,"Yes, subtle",No,No,No,No,No,No,benign
+ISIC_0000002,Mixed (mix of two of the above),"Yes, clear and dominant",No,No,No,No,No,"Yes, clear and dominant",No,"Yes, clear","Yes, subtle",No,No,No,malignant
+ISIC_0000004,Multicomponent (mix of 3 or more above),"Yes, subtle",No,No,No,No,No,"Yes, clear and dominant","Yes, clear and dominant","Yes, clear and dominant","Yes, clear","Yes, clear","Yes, subtle",No,malignant
+ISIC_0000006,Patchy Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000007,Diffuse Reticular,"Yes, clear and dominant","Yes, subtle",No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000008,Globular,No,No,No,"Yes, clear and dominant","Yes, clear",No,"Yes, clear",No,No,No,No,No,No,benign
+ISIC_0000009,Globular,"Yes, subtle",No,No,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,benign
+ISIC_0000010,Mixed (mix of two of the above),"Yes, clear and dominant",No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000011,Homogeneous,"Yes, subtle",No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000016,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000017,Mixed (mix of two of the above),"Yes, clear and dominant",No,No,"Yes, clear and dominant","Yes, subtle",No,No,No,No,No,No,No,No,benign
+ISIC_0000018,Diffuse Reticular,"Yes, clear and dominant",No,"Yes, subtle",No,No,No,"Yes, subtle",No,No,"Yes, clear",No,No,No,benign
+ISIC_0000019,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000021,Diffuse Reticular,"Yes, clear and dominant",No,"Yes, clear",No,No,No,No,No,"Yes, subtle",No,"Yes, subtle",No,No,benign
+ISIC_0000024,Mixed (mix of two of the above),No,"Yes, clear and dominant","Yes, clear and dominant","Yes, subtle",No,No,No,No,"Yes, clear",No,"Yes, clear",No,No,benign
+ISIC_0000025,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,"Yes, clear",No,No,No,No,No,benign
+ISIC_0000026,Multicomponent (mix of 3 or more above),"Yes, subtle",No,"Yes, clear",No,No,No,"Yes, clear and dominant","Yes, clear and dominant","Yes, clear",No,"Yes, clear",No,No,malignant
+ISIC_0000028,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,"Yes, subtle",No,No,No,No,No,No,benign
+ISIC_0000029,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, subtle",No,No,"Yes, clear","Yes, clear",No,"Yes, clear and dominant","Yes, clear",No,No,No,malignant
+ISIC_0000030,Undefined,No,No,No,No,No,No,No,"Yes, clear","Yes, clear and dominant",No,"Yes, clear","Yes, clear","Yes, clear",malignant
+ISIC_0000031,Multicomponent (mix of 3 or more above),"Yes, clear and dominant",No,"Yes, subtle",No,"Yes, subtle","Yes, subtle","Yes, clear and dominant",No,"Yes, clear and dominant","Yes, subtle","Yes, clear","Yes, subtle","Yes, clear",malignant
+ISIC_0000032,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, clear and dominant",No,"Yes, subtle",No,"Yes, clear",No,No,No,No,No,No,benign
+ISIC_0000034,Diffuse Reticular,"Yes, clear and dominant",No,"Yes, clear",No,"Yes, subtle","Yes, subtle","Yes, subtle",No,No,"Yes, clear",No,"Yes, clear",No,benign
+ISIC_0000035,Mixed (mix of two of the above),"Yes, clear and dominant","Yes, subtle","Yes, subtle",No,No,No,No,No,"Yes, clear and dominant","Yes, subtle",No,No,"Yes, clear",malignant
+ISIC_0000038,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,"Yes, clear",No,No,No,No,No,No,benign
+ISIC_0000039,Mixed (mix of two of the above),"Yes, clear and dominant",No,No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,No,benign
+ISIC_0000041,Homogeneous,No,No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000042,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, subtle",No,No,No,"Yes, clear and dominant",No,"Yes, subtle",No,No,"Yes, subtle",No,benign
+ISIC_0000044,Diffuse Reticular,"Yes, clear and dominant",No,"Yes, clear",No,"Yes, subtle",No,"Yes, subtle",No,No,No,No,No,No,benign
+ISIC_0000045,Mixed (mix of two of the above),"Yes, clear and dominant",No,No,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,benign
+ISIC_0000046,Diffuse Reticular,"Yes, clear and dominant",No,"Yes, subtle",No,No,No,No,No,"Yes, clear",No,"Yes, subtle",No,No,malignant
+ISIC_0000047,Diffuse Reticular,"Yes, clear and dominant",No,"Yes, subtle",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000048,Mixed (mix of two of the above),"Yes, clear and dominant",No,No,No,No,No,"Yes, clear and dominant",No,No,No,"Yes, clear",No,No,benign
+ISIC_0000049,Patchy Reticular,"Yes, clear and dominant",No,"Yes, clear",No,No,No,"Yes, clear",No,No,No,"Yes, subtle",No,No,malignant
+ISIC_0000050,Mixed (mix of two of the above),"Yes, clear",No,"Yes, subtle","Yes, clear",No,No,No,"Yes, clear and dominant","Yes, clear and dominant",No,"Yes, clear",No,No,benign
+ISIC_0000051,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,"Yes, clear",No,No,No,No,No,No,benign
+ISIC_0000054,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,"Yes, clear",No,No,No,No,No,No,malignant
+ISIC_0000055,Diffuse Reticular,"Yes, clear and dominant",No,"Yes, subtle",No,No,No,"Yes, subtle",No,No,"Yes, clear",No,No,No,benign
+ISIC_0000058,Homogeneous,No,No,"Yes, clear",No,"Yes, clear",No,"Yes, clear and dominant",No,"Yes, subtle",No,No,No,No,benign
+ISIC_0000059,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000060,Diffuse Reticular,"Yes, clear and dominant",No,"Yes, subtle",No,No,No,No,No,No,"Yes, subtle",No,No,No,benign
+ISIC_0000061,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000062,Diffuse Reticular,"Yes, clear and dominant",No,"Yes, clear",No,"Yes, clear",No,No,No,No,No,No,No,No,benign
+ISIC_0000063,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, subtle",No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000065,Diffuse Reticular,"Yes, clear and dominant",No,"Yes, subtle",No,No,No,"Yes, clear",No,No,No,No,No,No,benign
+ISIC_0000067,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,"Yes, clear",No,No,"Yes, subtle",No,No,No,benign
+ISIC_0000068,Diffuse Reticular,"Yes, clear and dominant",No,"Yes, subtle",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000073,Homogeneous,"Yes, subtle","Yes, clear","Yes, subtle",No,No,"Yes, clear and dominant","Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000074,Mixed (mix of two of the above),"Yes, clear and dominant",No,No,No,No,No,"Yes, clear and dominant",No,No,No,"Yes, clear",No,No,malignant
+ISIC_0000075,Diffuse Reticular,"Yes, clear and dominant",No,"Yes, subtle",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000077,Homogeneous,"Yes, clear",No,No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,No,benign
+ISIC_0000078,Mixed (mix of two of the above),"Yes, clear and dominant",No,No,No,No,"Yes, subtle","Yes, clear and dominant",No,No,No,No,No,No,malignant
+ISIC_0000079,Diffuse Reticular,"Yes, clear and dominant",No,No,"Yes, subtle",No,No,No,No,No,No,No,No,No,benign
+ISIC_0000080,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,"Yes, subtle",No,No,No,No,No,No,benign
+ISIC_0000081,Mixed (mix of two of the above),No,No,No,"Yes, clear and dominant",No,No,No,No,"Yes, clear and dominant",No,No,No,No,benign
+ISIC_0000082,Diffuse Reticular,"Yes, clear and dominant",No,"Yes, subtle",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000085,Diffuse Reticular,"Yes, clear and dominant",No,"Yes, subtle",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000086,Mixed (mix of two of the above),"Yes, subtle",No,"Yes, clear and dominant",No,"Yes, subtle",No,"Yes, clear and dominant",No,No,"Yes, subtle",No,No,No,benign
+ISIC_0000087,Diffuse Reticular,"Yes, clear","Yes, clear and dominant","Yes, subtle",No,No,No,No,"Yes, subtle",No,No,No,No,No,benign
+ISIC_0000089,Mixed (mix of two of the above),"Yes, clear and dominant",No,No,No,No,No,"Yes, clear and dominant",No,No,"Yes, clear",No,No,No,benign
+ISIC_0000091,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, subtle",No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,benign
+ISIC_0000093,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,"Yes, subtle",No,No,No,No,No,No,benign
+ISIC_0000094,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000095,Diffuse Reticular,"Yes, clear and dominant",No,"Yes, subtle",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000096,Mixed (mix of two of the above),"Yes, clear and dominant",No,No,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,benign
+ISIC_0000097,Mixed (mix of two of the above),No,No,No,"Yes, clear and dominant",No,No,No,"Yes, clear and dominant",No,No,No,No,No,benign
+ISIC_0000100,Homogeneous,"Yes, clear",No,No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,No,benign
+ISIC_0000102,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000103,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, subtle",No,"Yes, subtle","Yes, subtle","Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000104,Homogeneous,No,No,"Yes, subtle",No,No,No,No,"Yes, clear and dominant",No,No,No,No,No,benign
+ISIC_0000105,Diffuse Reticular,"Yes, clear and dominant",No,"Yes, subtle",No,"Yes, subtle",No,No,No,No,No,No,No,No,benign
+ISIC_0000108,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, clear and dominant",No,"Yes, clear",No,No,No,No,No,No,No,No,benign
+ISIC_0000109,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,"Yes, clear","Yes, clear",No,No,benign
+ISIC_0000110,Homogeneous,"Yes, subtle",No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000112,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000114,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,"Yes, clear",No,No,No,benign
+ISIC_0000116,Homogeneous,"Yes, subtle",No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000118,Homogeneous,"Yes, clear",No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000119,Diffuse Reticular,"Yes, clear and dominant",No,"Yes, subtle",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000120,Mixed (mix of two of the above),"Yes, clear and dominant",No,No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,No,benign
+ISIC_0000121,Homogeneous,No,No,"Yes, clear",No,No,No,No,"Yes, clear and dominant",No,No,No,No,No,benign
+ISIC_0000122,Cobblestone,No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,benign
+ISIC_0000123,Homogeneous,No,No,"Yes, clear",No,No,No,"Yes, clear and dominant","Yes, clear",No,No,No,No,No,benign
+ISIC_0000124,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000127,Mixed (mix of two of the above),No,No,"Yes, clear",No,No,No,No,"Yes, clear and dominant","Yes, clear and dominant",No,"Yes, subtle",No,No,benign
+ISIC_0000128,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, clear and dominant",No,"Yes, clear",No,No,No,No,No,No,No,No,benign
+ISIC_0000130,Multicomponent (mix of 3 or more above),No,No,"Yes, clear and dominant",No,No,"Yes, clear and dominant","Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000131,Homogeneous,No,No,"Yes, clear",No,No,No,No,"Yes, clear and dominant",No,No,No,No,No,benign
+ISIC_0000133,Diffuse Reticular,"Yes, clear and dominant","Yes, subtle",No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000134,Mixed (mix of two of the above),"Yes, clear and dominant",No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000135,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,"Yes, subtle",No,No,No,No,No,No,benign
+ISIC_0000137,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, subtle",No,"Yes, subtle",No,"Yes, clear and dominant",No,No,"Yes, subtle",No,No,No,benign
+ISIC_0000139,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, subtle",No,"Yes, clear",No,"Yes, clear and dominant",No,No,No,No,"Yes, clear",No,malignant
+ISIC_0000140,Multicomponent (mix of 3 or more above),"Yes, clear and dominant",No,"Yes, clear and dominant",No,No,No,"Yes, clear and dominant",No,"Yes, clear and dominant","Yes, clear",No,"Yes, clear","Yes, subtle",malignant
+ISIC_0000142,Multicomponent (mix of 3 or more above),No,No,"Yes, clear and dominant",No,No,"Yes, subtle","Yes, clear and dominant","Yes, clear and dominant","Yes, clear","Yes, subtle",No,"Yes, clear","Yes, clear",malignant
+ISIC_0000143,Globular,"Yes, subtle",No,"Yes, clear and dominant",No,No,No,No,"Yes, clear",No,No,No,No,No,malignant
+ISIC_0000145,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,"Yes, clear",No,No,No,No,No,No,malignant
+ISIC_0000146,Mixed (mix of two of the above),No,"Yes, clear","Yes, subtle",No,No,No,No,"Yes, clear and dominant","Yes, clear and dominant",No,No,"Yes, subtle","Yes, clear",malignant
+ISIC_0000147,Undefined,No,No,No,No,No,No,"Yes, clear",No,"Yes, clear and dominant","Yes, clear",No,"Yes, clear","Yes, clear",malignant
+ISIC_0000148,Mixed (mix of two of the above),"Yes, clear and dominant",No,No,No,No,"Yes, subtle",No,"Yes, clear and dominant",No,No,No,No,"Yes, subtle",malignant
+ISIC_0000150,Multicomponent (mix of 3 or more above),"Yes, clear and dominant",No,"Yes, clear and dominant",No,"Yes, clear and dominant","Yes, subtle",No,No,"Yes, clear and dominant","Yes, clear","Yes, clear",No,No,malignant
+ISIC_0000151,Multicomponent (mix of 3 or more above),"Yes, clear and dominant",No,"Yes, clear",No,"Yes, clear and dominant",No,"Yes, clear and dominant",No,No,No,No,No,No,malignant
+ISIC_0000152,Mixed (mix of two of the above),"Yes, clear and dominant",No,No,No,No,"Yes, subtle",No,No,"Yes, clear and dominant",No,No,No,No,malignant
+ISIC_0000153,Mixed (mix of two of the above),"Yes, clear and dominant",No,No,No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,malignant
+ISIC_0000154,Mixed (mix of two of the above),"Yes, clear and dominant",No,No,No,No,No,No,No,"Yes, clear and dominant","Yes, clear","Yes, clear",No,No,malignant
+ISIC_0000155,Multicomponent (mix of 3 or more above),"Yes, clear and dominant",No,"Yes, subtle","Yes, clear","Yes, subtle","Yes, clear","Yes, clear and dominant",No,"Yes, subtle",No,No,"Yes, clear",No,malignant
+ISIC_0000156,Mixed (mix of two of the above),"Yes, clear and dominant",No,No,No,No,No,"Yes, clear and dominant",No,No,"Yes, clear",No,No,No,malignant
+ISIC_0000157,Multicomponent (mix of 3 or more above),"Yes, clear",No,No,No,No,No,"Yes, clear and dominant","Yes, clear and dominant",No,No,No,"Yes, clear",No,malignant
+ISIC_0000159,Mixed (mix of two of the above),"Yes, subtle",No,"Yes, clear and dominant",No,No,"Yes, subtle","Yes, clear and dominant",No,No,"Yes, clear",No,No,No,malignant
+ISIC_0000162,Mixed (mix of two of the above),"Yes, clear and dominant",No,No,No,No,No,No,No,"Yes, clear and dominant",No,"Yes, clear",No,No,malignant
+ISIC_0000163,Mixed (mix of two of the above),"Yes, clear and dominant",No,No,No,No,No,"Yes, clear and dominant",No,No,"Yes, clear",No,No,No,malignant
+ISIC_0000166,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, subtle",No,"Yes, subtle","Yes, clear","Yes, clear",No,"Yes, clear and dominant","Yes, clear","Yes, clear",No,No,malignant
+ISIC_0000167,Mixed (mix of two of the above),"Yes, clear and dominant",No,No,No,No,No,No,No,"Yes, clear and dominant","Yes, subtle","Yes, clear",No,No,malignant
+ISIC_0000170,Multicomponent (mix of 3 or more above),"Yes, clear and dominant",No,"Yes, subtle",No,No,No,"Yes, clear and dominant",No,"Yes, clear and dominant",No,No,No,No,malignant
+ISIC_0000171,Multicomponent (mix of 3 or more above),"Yes, clear and dominant",No,"Yes, clear",No,No,No,"Yes, clear and dominant",No,"Yes, clear and dominant",No,No,No,No,malignant
+ISIC_0000173,Mixed (mix of two of the above),"Yes, subtle",No,No,No,No,"Yes, subtle","Yes, clear and dominant",No,"Yes, clear and dominant","Yes, clear","Yes, clear",No,No,malignant
+ISIC_0000175,Multicomponent (mix of 3 or more above),"Yes, clear and dominant",No,"Yes, clear",No,"Yes, clear and dominant",No,"Yes, clear and dominant",No,No,"Yes, subtle",No,No,No,malignant
+ISIC_0000176,Diffuse Reticular,"Yes, clear and dominant",No,"Yes, subtle",No,No,No,No,No,No,No,No,No,No,malignant
+ISIC_0000179,Mixed (mix of two of the above),No,No,"Yes, clear and dominant",No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000181,Homogeneous,No,No,"Yes, subtle",No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000182,Mixed (mix of two of the above),"Yes, clear",No,"Yes, clear and dominant",No,No,No,No,"Yes, clear and dominant",No,No,No,No,No,benign
+ISIC_0000183,Multicomponent (mix of 3 or more above),"Yes, clear and dominant",No,"Yes, clear and dominant",No,"Yes, clear and dominant",No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000184,Mixed (mix of two of the above),"Yes, subtle",No,"Yes, subtle","Yes, clear and dominant",No,No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000185,Homogeneous,No,No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000186,Homogeneous,No,No,"Yes, subtle",No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000187,Cobblestone,No,No,"Yes, subtle","Yes, clear and dominant",No,No,No,No,No,No,No,No,No,benign
+ISIC_0000189,Cobblestone,No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,benign
+ISIC_0000190,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000191,Mixed (mix of two of the above),"Yes, clear and dominant",No,No,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,benign
+ISIC_0000192,Mixed (mix of two of the above),No,No,"Yes, clear",No,No,No,No,"Yes, clear and dominant","Yes, clear and dominant",No,"Yes, clear","Yes, clear",No,benign
+ISIC_0000193,Homogeneous,No,No,No,No,No,No,"Yes, clear and dominant",No,No,"Yes, clear","Yes, clear",No,No,benign
+ISIC_0000199,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, subtle",No,No,"Yes, clear and dominant","Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000203,Patchy Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000204,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000205,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, subtle",No,No,No,No,No,"Yes, clear and dominant",No,"Yes, subtle",No,No,benign
+ISIC_0000206,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, clear",No,No,No,"Yes, clear and dominant",No,No,No,"Yes, clear",No,No,benign
+ISIC_0000207,Patchy Reticular,"Yes, clear and dominant",No,"Yes, subtle",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000208,Patchy Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000209,Mixed (mix of two of the above),"Yes, clear and dominant",No,No,"Yes, clear and dominant",No,No,No,No,"Yes, subtle",No,No,No,No,benign
+ISIC_0000210,Homogeneous,"Yes, subtle",No,No,No,No,"Yes, clear and dominant","Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000211,Mixed (mix of two of the above),"Yes, clear and dominant",No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000214,Mixed (mix of two of the above),"Yes, clear and dominant",No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000215,Patchy Reticular,"Yes, clear and dominant",No,"Yes, subtle",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000216,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, clear and dominant",No,"Yes, clear and dominant",No,No,No,"Yes, subtle","Yes, subtle",No,No,No,benign
+ISIC_0000217,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000218,Diffuse Reticular,"Yes, clear and dominant",No,"Yes, subtle",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000219,Mixed (mix of two of the above),"Yes, clear and dominant",No,No,No,No,No,No,No,"Yes, clear and dominant",No,"Yes, clear",No,No,benign
+ISIC_0000220,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000221,Globular,No,No,"Yes, clear and dominant",No,"Yes, clear and dominant",No,"Yes, clear",No,No,No,No,No,No,benign
+ISIC_0000223,Patchy Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000224,Mixed (mix of two of the above),"Yes, clear and dominant",No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000225,Mixed (mix of two of the above),No,"Yes, clear and dominant",No,No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000229,Mixed (mix of two of the above),"Yes, clear and dominant",No,No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,No,benign
+ISIC_0000232,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000235,Homogeneous,No,No,"Yes, clear",No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000236,Diffuse Reticular,"Yes, clear and dominant",No,"Yes, clear",No,"Yes, clear","Yes, subtle",No,No,"Yes, subtle","Yes, subtle",No,No,No,benign
+ISIC_0000237,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, subtle",No,No,No,No,No,"Yes, clear and dominant",No,"Yes, subtle",No,No,benign
+ISIC_0000239,Homogeneous,"Yes, clear",No,No,No,No,"Yes, clear and dominant","Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000240,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, clear and dominant",No,No,No,"Yes, subtle",No,No,No,No,No,No,benign
+ISIC_0000242,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000243,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, clear and dominant",No,"Yes, clear and dominant",No,No,No,No,"Yes, clear",No,No,No,benign
+ISIC_0000244,Diffuse Reticular,"Yes, clear and dominant","Yes, clear","Yes, subtle",No,No,No,"Yes, clear","Yes, clear",No,No,"Yes, subtle",No,No,benign
+ISIC_0000245,Mixed (mix of two of the above),"Yes, clear and dominant",No,No,No,No,No,No,No,"Yes, clear and dominant",No,"Yes, clear",No,No,benign
+ISIC_0000247,Diffuse Reticular,"Yes, clear and dominant",No,"Yes, subtle",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000249,Globular,No,No,"Yes, clear and dominant",No,No,No,No,No,No,No,"Yes, subtle",No,No,benign
+ISIC_0000250,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, clear",No,"Yes, clear and dominant",No,No,"Yes, clear",No,No,No,No,No,benign
+ISIC_0000251,Mixed (mix of two of the above),"Yes, clear and dominant",No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000252,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,"Yes, subtle",No,No,No,No,No,No,benign
+ISIC_0000255,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000256,Homogeneous,"Yes, clear",No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000259,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, clear and dominant",No,No,No,No,No,"Yes, clear",No,No,No,No,benign
+ISIC_0000260,Globular,No,No,"Yes, clear","Yes, clear and dominant","Yes, clear and dominant",No,No,No,No,No,No,No,No,benign
+ISIC_0000261,Globular,No,No,"Yes, clear","Yes, clear and dominant",No,No,No,No,No,No,No,No,No,benign
+ISIC_0000262,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, clear and dominant",No,"Yes, subtle",No,No,No,No,No,No,No,No,benign
+ISIC_0000263,Diffuse Reticular,"Yes, clear and dominant",No,"Yes, subtle",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000264,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000265,Homogeneous,No,No,No,No,No,No,"Yes, clear and dominant",No,No,"Yes, subtle","Yes, subtle","Yes, subtle",No,benign
+ISIC_0000268,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,"Yes, subtle",No,No,No,No,benign
+ISIC_0000269,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, clear and dominant",No,"Yes, clear and dominant",No,"Yes, subtle",No,No,No,No,No,No,benign
+ISIC_0000274,Mixed (mix of two of the above),"Yes, clear and dominant",No,No,No,No,No,"Yes, clear and dominant","Yes, clear","Yes, subtle",No,No,No,No,benign
+ISIC_0000275,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000276,Homogeneous,"Yes, subtle","Yes, subtle",No,No,No,No,No,"Yes, clear and dominant",No,No,No,"Yes, clear",No,malignant
+ISIC_0000277,Multicomponent (mix of 3 or more above),"Yes, clear and dominant",No,"Yes, clear and dominant",No,No,No,No,No,"Yes, clear and dominant","Yes, clear","Yes, subtle",No,No,malignant
+ISIC_0000278,Mixed (mix of two of the above),"Yes, clear and dominant",No,No,No,No,No,No,No,"Yes, clear and dominant","Yes, clear",No,No,No,malignant
+ISIC_0000280,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, subtle",No,No,No,No,No,"Yes, clear and dominant",No,"Yes, clear",No,No,malignant
+ISIC_0000281,Multicomponent (mix of 3 or more above),"Yes, clear and dominant",No,"Yes, clear and dominant",No,No,"Yes, clear and dominant","Yes, clear and dominant","Yes, clear and dominant","Yes, clear and dominant",No,"Yes, clear","Yes, clear",No,malignant
+ISIC_0000282,Multicomponent (mix of 3 or more above),No,No,"Yes, clear and dominant","Yes, clear and dominant",No,No,"Yes, clear and dominant",No,"Yes, clear and dominant",No,No,No,No,malignant
+ISIC_0000283,Multicomponent (mix of 3 or more above),"Yes, clear and dominant",No,No,No,No,"Yes, clear and dominant","Yes, clear and dominant",No,"Yes, subtle",No,No,"Yes, clear",No,malignant
+ISIC_0000285,Mixed (mix of two of the above),"Yes, clear and dominant","Yes, clear and dominant",No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,No,malignant
+ISIC_0000288,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, clear and dominant",No,No,No,No,No,No,"Yes, clear",No,No,No,malignant
+ISIC_0000290,Mixed (mix of two of the above),No,No,No,No,No,No,"Yes, clear and dominant","Yes, clear","Yes, clear and dominant",No,No,"Yes, clear",No,malignant
+ISIC_0000292,Multicomponent (mix of 3 or more above),"Yes, clear and dominant",No,"Yes, clear and dominant",No,No,No,No,No,"Yes, clear and dominant","Yes, subtle",No,No,No,malignant
+ISIC_0000293,Mixed (mix of two of the above),"Yes, clear and dominant","Yes, clear",No,No,No,No,"Yes, clear and dominant",No,"Yes, clear","Yes, subtle","Yes, clear",No,"Yes, clear",malignant
+ISIC_0000294,Mixed (mix of two of the above),"Yes, clear and dominant",No,No,No,No,No,No,"Yes, clear","Yes, clear and dominant",No,No,No,"Yes, clear",malignant
+ISIC_0000295,Multicomponent (mix of 3 or more above),"Yes, clear and dominant","Yes, clear and dominant",No,"Yes, clear",No,"Yes, clear and dominant","Yes, clear and dominant",No,No,No,No,"Yes, clear",No,malignant
+ISIC_0000297,Homogeneous,No,No,No,No,"Yes, clear","Yes, clear and dominant","Yes, clear and dominant",No,No,No,No,No,No,malignant
+ISIC_0000300,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, subtle",No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,malignant
+ISIC_0000301,Homogeneous,"Yes, clear",No,"Yes, clear",No,"Yes, clear","Yes, subtle","Yes, clear and dominant",No,No,No,No,"Yes, subtle",No,malignant
+ISIC_0000303,Multicomponent (mix of 3 or more above),"Yes, clear and dominant",No,"Yes, clear and dominant",No,No,No,"Yes, clear and dominant",No,No,No,No,"Yes, subtle",No,malignant
+ISIC_0000307,Multicomponent (mix of 3 or more above),"Yes, subtle",No,"Yes, subtle",No,No,No,"Yes, clear and dominant","Yes, clear and dominant","Yes, clear and dominant",No,No,"Yes, clear",No,malignant
+ISIC_0000313,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,malignant
+ISIC_0000314,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, subtle",No,No,No,"Yes, clear and dominant",No,No,No,No,"Yes, clear",No,malignant
+ISIC_0000315,Mixed (mix of two of the above),No,No,"Yes, clear and dominant",No,No,No,No,"Yes, clear and dominant",No,No,No,No,No,benign
+ISIC_0000316,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,"Yes, subtle",No,No,No,No,No,No,benign
+ISIC_0000317,Homogeneous,"Yes, subtle",No,"Yes, subtle",No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000321,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, subtle",No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000322,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, subtle",No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000323,Homogeneous,No,No,"Yes, subtle",No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000324,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, clear",No,No,No,No,"Yes, clear and dominant",No,No,No,No,No,benign
+ISIC_0000326,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000329,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, clear",No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000330,Homogeneous,No,No,No,No,No,"Yes, clear","Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000331,Mixed (mix of two of the above),No,No,No,"Yes, clear and dominant",No,No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000332,Undefined,"Yes, clear",No,No,No,No,No,"Yes, clear",No,"Yes, clear and dominant","Yes, subtle",No,No,No,benign
+ISIC_0000333,Mixed (mix of two of the above),"Yes, subtle",No,No,"Yes, clear and dominant",No,No,"Yes, clear",No,"Yes, clear and dominant",No,No,No,No,benign
+ISIC_0000336,Mixed (mix of two of the above),"Yes, subtle",No,"Yes, clear and dominant",No,"Yes, subtle",No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000337,Multicomponent (mix of 3 or more above),"Yes, clear and dominant",No,No,No,No,"Yes, clear","Yes, clear and dominant",No,"Yes, clear and dominant",No,No,"Yes, subtle",No,benign
+ISIC_0000338,Diffuse Reticular,"Yes, clear and dominant",No,"Yes, subtle",No,No,No,"Yes, clear",No,No,No,No,No,No,benign
+ISIC_0000339,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, subtle",No,No,No,"Yes, clear and dominant",No,No,No,No,"Yes, subtle",No,benign
+ISIC_0000341,Mixed (mix of two of the above),"Yes, subtle",No,"Yes, clear","Yes, clear and dominant","Yes, clear and dominant",No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000342,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, subtle",No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000344,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, subtle",No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000345,Mixed (mix of two of the above),"Yes, clear and dominant",No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000346,Mixed (mix of two of the above),No,No,"Yes, clear and dominant",No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000347,Undefined,No,No,No,No,No,No,"Yes, clear and dominant",No,"Yes, clear and dominant",No,No,No,No,benign
+ISIC_0000348,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, subtle",No,"Yes, subtle","Yes, clear and dominant","Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000349,Diffuse Reticular,"Yes, clear",No,"Yes, subtle",No,"Yes, clear",No,"Yes, subtle",No,No,"Yes, subtle",No,No,No,benign
+ISIC_0000350,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, clear",No,"Yes, subtle",No,"Yes, clear",No,No,No,No,No,No,benign
+ISIC_0000351,Mixed (mix of two of the above),"Yes, clear",No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000352,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,"Yes, subtle",No,No,No,No,benign
+ISIC_0000353,Diffuse Reticular,"Yes, clear and dominant",No,No,No,"Yes, subtle",No,No,No,"Yes, subtle",No,No,No,No,benign
+ISIC_0000355,Mixed (mix of two of the above),No,No,"Yes, clear","Yes, clear","Yes, clear",No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000358,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, subtle",No,No,No,"Yes, clear",No,No,No,No,No,No,benign
+ISIC_0000359,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, subtle",No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000360,Patchy Reticular,"Yes, clear and dominant",No,"Yes, subtle",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000361,Diffuse Reticular,"Yes, clear and dominant",No,"Yes, subtle",No,No,No,No,No,"Yes, clear",No,No,No,No,benign
+ISIC_0000363,Mixed (mix of two of the above),"Yes, clear and dominant",No,No,No,"Yes, subtle",No,No,No,"Yes, clear and dominant",No,No,No,No,benign
+ISIC_0000364,Mixed (mix of two of the above),"Yes, clear and dominant",No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000365,Diffuse Reticular,"Yes, clear and dominant",No,"Yes, subtle",No,No,No,No,No,"Yes, clear",No,No,No,No,benign
+ISIC_0000366,Undefined,"Yes, subtle",No,"Yes, subtle",No,No,No,"Yes, clear",No,"Yes, clear and dominant",No,No,No,No,benign
+ISIC_0000367,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, subtle",No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000369,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, subtle",No,No,No,"Yes, clear",No,No,No,No,No,No,benign
+ISIC_0000370,Mixed (mix of two of the above),"Yes, clear and dominant",No,No,"Yes, clear and dominant",No,No,No,No,No,"Yes, clear",No,No,No,benign
+ISIC_0000372,Diffuse Reticular,No,No,"Yes, subtle",No,No,No,"Yes, subtle",No,No,No,No,No,No,benign
+ISIC_0000374,Diffuse Reticular,"Yes, clear and dominant",No,"Yes, subtle",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000376,Diffuse Reticular,"Yes, clear and dominant",No,"Yes, subtle",No,No,No,No,No,No,"Yes, clear",No,No,No,benign
+ISIC_0000379,Undefined,"Yes, clear",No,"Yes, subtle",No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,benign
+ISIC_0000381,Mixed (mix of two of the above),"Yes, clear and dominant",No,No,No,No,No,"Yes, clear",No,No,No,No,No,No,benign
+ISIC_0000382,Cobblestone,No,No,No,No,No,No,No,"Yes, clear",No,No,No,No,No,benign
+ISIC_0000383,Mixed (mix of two of the above),"Yes, clear and dominant",No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000384,Diffuse Reticular,"Yes, clear and dominant",No,No,No,"Yes, subtle",No,No,No,No,No,No,No,No,benign
+ISIC_0000385,Globular,No,No,No,"Yes, clear and dominant",No,No,No,No,No,"Yes, subtle",No,No,No,benign
+ISIC_0000386,Diffuse Reticular,No,No,No,No,No,No,"Yes, subtle",No,No,No,No,No,No,benign
+ISIC_0000387,Undefined,"Yes, subtle",No,"Yes, clear",No,No,No,No,"Yes, clear",No,No,No,No,No,benign
+ISIC_0000390,Multicomponent (mix of 3 or more above),"Yes, subtle",No,"Yes, subtle",No,"Yes, clear","Yes, subtle","Yes, clear",No,No,"Yes, clear",No,"Yes, subtle","Yes, clear",malignant
+ISIC_0000391,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, subtle",No,No,No,"Yes, clear",No,No,"Yes, subtle",No,No,No,benign
+ISIC_0000395,Undefined,"Yes, clear",No,"Yes, subtle",No,No,No,No,"Yes, clear and dominant",No,"Yes, clear",No,No,No,malignant
+ISIC_0000396,Undefined,"Yes, clear","Yes, subtle",No,No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,benign
+ISIC_0000397,Patchy Reticular,No,No,"Yes, subtle",No,No,No,No,No,"Yes, subtle",No,No,No,No,benign
+ISIC_0000403,Diffuse Reticular,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000408,Mixed (mix of two of the above),"Yes, clear and dominant",No,No,"Yes, clear and dominant",No,No,"Yes, subtle",No,No,No,No,No,No,benign
+ISIC_0000409,Diffuse Reticular,No,No,"Yes, subtle",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000410,Undefined,"Yes, subtle",No,No,No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,malignant
+ISIC_0000412,Undefined,"Yes, subtle",No,No,No,No,No,No,"Yes, clear","Yes, clear and dominant","Yes, clear",No,No,No,malignant
+ISIC_0000413,Undefined,"Yes, subtle",No,No,No,No,No,No,"Yes, clear and dominant",No,"Yes, subtle",No,No,No,malignant
+ISIC_0000415,Undefined,"Yes, subtle","Yes, clear","Yes, clear",No,"Yes, subtle","Yes, clear","Yes, subtle",No,No,No,"Yes, clear",No,No,malignant
+ISIC_0000416,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000419,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000421,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,"Yes, subtle",No,No,No,benign
+ISIC_0000423,Cobblestone,No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,benign
+ISIC_0000425,Mixed (mix of two of the above),"Yes, subtle",No,No,"Yes, clear and dominant",No,No,No,No,"Yes, subtle",No,No,No,No,benign
+ISIC_0000426,Undefined,"Yes, clear",No,"Yes, subtle",No,No,No,No,No,"Yes, clear and dominant",No,"Yes, clear",No,No,benign
+ISIC_0000427,Diffuse Reticular,"Yes, clear and dominant",No,"Yes, subtle",No,No,"Yes, subtle",No,No,No,No,No,No,No,benign
+ISIC_0000431,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000434,Undefined,"Yes, clear",No,No,No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,malignant
+ISIC_0000436,Undefined,"Yes, subtle",No,No,No,No,No,No,No,"Yes, clear",No,No,No,No,benign
+ISIC_0000439,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, subtle",No,No,No,"Yes, clear",No,No,No,No,No,No,benign
+ISIC_0000442,Undefined,"Yes, subtle","Yes, subtle","Yes, clear",No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,benign
+ISIC_0000443,Mixed (mix of two of the above),"Yes, clear",No,No,No,No,No,"Yes, clear",No,No,No,No,No,No,benign
+ISIC_0000444,Undefined,"Yes, subtle",No,No,No,No,No,No,No,No,"Yes, clear","Yes, clear",No,No,malignant
+ISIC_0000445,Undefined,"Yes, subtle",No,No,No,No,No,No,No,No,No,No,No,No,malignant
+ISIC_0000447,Undefined,"Yes, subtle",No,No,No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,benign
+ISIC_0000451,Mixed (mix of two of the above),"Yes, clear",No,"Yes, clear",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000452,Multicomponent (mix of 3 or more above),"Yes, clear",No,"Yes, subtle",No,No,No,No,"Yes, subtle",No,No,"Yes, subtle",No,No,benign
+ISIC_0000453,Undefined,"Yes, subtle","Yes, subtle","Yes, clear",No,"Yes, clear",No,No,No,"Yes, clear and dominant",No,No,No,No,benign
+ISIC_0000454,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000455,Undefined,No,No,"Yes, subtle","Yes, clear",No,No,No,"Yes, subtle","Yes, clear and dominant",No,No,No,No,benign
+ISIC_0000457,Globular,No,No,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000458,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000460,Diffuse Reticular,"Yes, clear and dominant",No,"Yes, subtle",No,No,No,"Yes, subtle",No,No,No,No,No,No,benign
+ISIC_0000461,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000463,Multicomponent (mix of 3 or more above),"Yes, clear",No,No,No,No,"Yes, clear","Yes, clear","Yes, subtle",No,"Yes, clear",No,No,No,malignant
+ISIC_0000465,Undefined,No,No,No,"Yes, clear",No,No,No,No,"Yes, clear and dominant",No,No,No,No,benign
+ISIC_0000467,Diffuse Reticular,No,No,No,No,No,No,No,No,"Yes, subtle",No,No,No,No,benign
+ISIC_0000468,Undefined,"Yes, clear",No,"Yes, subtle",No,No,No,No,No,"Yes, clear",No,No,No,No,benign
+ISIC_0000469,Undefined,"Yes, subtle",No,No,No,No,No,"Yes, subtle",No,"Yes, clear and dominant",No,No,No,No,malignant
+ISIC_0000471,Undefined,"Yes, subtle",No,"Yes, subtle",No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,benign
+ISIC_0000473,Undefined,"Yes, clear",No,No,No,No,No,No,"Yes, subtle","Yes, clear and dominant",No,No,No,No,benign
+ISIC_0000474,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, clear",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000475,Undefined,"Yes, clear",No,No,No,No,No,No,No,"Yes, clear",No,No,No,No,benign
+ISIC_0000477,Homogeneous,No,No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000478,Undefined,"Yes, subtle",No,No,No,No,No,No,"Yes, clear","Yes, clear",No,No,No,No,benign
+ISIC_0000480,Undefined,"Yes, clear",No,"Yes, subtle",No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,benign
+ISIC_0000481,Multicomponent (mix of 3 or more above),"Yes, clear",No,"Yes, subtle",No,No,No,No,No,"Yes, clear and dominant","Yes, subtle",No,No,No,benign
+ISIC_0000483,Diffuse Reticular,"Yes, clear and dominant",No,"Yes, subtle",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000485,Undefined,"Yes, subtle",No,No,No,No,No,No,No,"Yes, clear and dominant","Yes, subtle",No,No,No,benign
+ISIC_0000486,Diffuse Reticular,"Yes, clear and dominant",No,"Yes, subtle",No,"Yes, subtle",No,No,No,No,No,No,No,No,benign
+ISIC_0000488,Undefined,No,No,"Yes, subtle",No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,benign
+ISIC_0000489,Undefined,No,No,"Yes, clear",No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,benign
+ISIC_0000491,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,"Yes, subtle",No,No,No,No,No,No,benign
+ISIC_0000492,Undefined,"Yes, subtle",No,No,No,No,No,No,"Yes, clear","Yes, clear and dominant",No,No,No,No,benign
+ISIC_0000493,Diffuse Reticular,No,No,"Yes, subtle",No,No,No,No,No,"Yes, clear",No,No,No,No,benign
+ISIC_0000495,Diffuse Reticular,"Yes, clear and dominant",No,"Yes, subtle",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000496,Diffuse Reticular,"Yes, clear and dominant",No,"Yes, clear",No,No,No,No,No,No,"Yes, subtle",No,No,No,benign
+ISIC_0000498,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,"Yes, clear",No,No,No,No,benign
+ISIC_0000500,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000503,Diffuse Reticular,"Yes, clear and dominant",No,"Yes, subtle",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000504,Undefined,No,No,"Yes, subtle",No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,benign
+ISIC_0000505,Mixed (mix of two of the above),"Yes, clear",No,"Yes, clear",No,No,No,"Yes, subtle",No,No,"Yes, subtle",No,No,No,benign
+ISIC_0000506,Globular,No,No,"Yes, clear and dominant",No,"Yes, clear",No,No,No,"Yes, subtle",No,No,No,No,benign
+ISIC_0000507,Undefined,"Yes, subtle","Yes, subtle","Yes, subtle",No,No,No,No,No,"Yes, clear",No,No,No,No,benign
+ISIC_0000511,Undefined,"Yes, subtle",No,No,No,No,No,No,"Yes, clear","Yes, clear and dominant","Yes, clear",No,No,No,benign
+ISIC_0000513,Mixed (mix of two of the above),"Yes, clear",No,No,No,No,"Yes, subtle","Yes, clear",No,No,No,No,No,No,malignant
+ISIC_0000514,Diffuse Reticular,"Yes, clear",No,No,No,No,No,No,No,No,"Yes, subtle",No,No,No,benign
+ISIC_0000516,Undefined,"Yes, clear",No,No,No,No,No,No,No,No,No,"Yes, clear","Yes, clear",No,malignant
+ISIC_0000517,Undefined,No,No,No,No,No,No,No,No,No,"Yes, clear",No,No,No,malignant
+ISIC_0000519,Undefined,"Yes, clear and dominant",No,"Yes, subtle",No,No,No,No,No,No,"Yes, clear","Yes, clear",No,No,malignant
+ISIC_0000520,Undefined,"Yes, subtle",No,No,No,No,No,No,"Yes, clear",No,"Yes, clear",No,"Yes, clear",No,malignant
+ISIC_0000521,Diffuse Reticular,No,No,No,No,No,No,No,No,No,No,No,"Yes, clear",No,malignant
+ISIC_0000522,Undefined,No,No,No,No,"Yes, subtle",No,No,No,"Yes, clear and dominant","Yes, subtle","Yes, clear",No,No,malignant
+ISIC_0000523,Homogeneous,No,No,No,No,No,No,"Yes, clear and dominant","Yes, subtle","Yes, subtle",No,No,No,No,benign
+ISIC_0000524,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,"Yes, subtle",No,benign
+ISIC_0000528,Multicomponent (mix of 3 or more above),"Yes, subtle",No,"Yes, subtle",No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000529,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000530,Undefined,"Yes, subtle",No,No,No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,benign
+ISIC_0000531,Undefined,"Yes, subtle",No,No,No,No,No,"Yes, subtle",No,"Yes, clear and dominant",No,No,No,No,malignant
+ISIC_0000532,Diffuse Reticular,"Yes, clear and dominant",No,"Yes, subtle",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000535,Undefined,"Yes, subtle",No,"Yes, subtle",No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,benign
+ISIC_0000536,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000538,Mixed (mix of two of the above),"Yes, clear and dominant",No,No,No,No,No,"Yes, clear",No,No,No,No,No,No,benign
+ISIC_0000541,Mixed (mix of two of the above),"Yes, clear",No,No,No,No,No,"Yes, clear",No,No,No,No,No,No,benign
+ISIC_0000542,Patchy Reticular,"Yes, clear and dominant",No,"Yes, subtle",No,No,No,No,No,No,No,"Yes, subtle",No,No,benign
+ISIC_0000543,Mixed (mix of two of the above),"Yes, clear and dominant",No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000544,Mixed (mix of two of the above),No,No,"Yes, subtle",No,"Yes, clear and dominant","Yes, clear","Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0000545,Cobblestone,No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,benign
+ISIC_0000546,Undefined,"Yes, subtle","Yes, subtle",No,No,No,No,No,No,"Yes, clear",No,No,No,No,benign
+ISIC_0000548,Undefined,"Yes, subtle",No,No,No,No,No,No,No,"Yes, clear and dominant","Yes, clear",No,No,No,malignant
+ISIC_0000551,Undefined,"Yes, subtle",No,No,No,No,No,No,"Yes, clear and dominant","Yes, subtle",No,No,No,No,malignant
+ISIC_0000552,Multicomponent (mix of 3 or more above),"Yes, subtle",No,"Yes, clear",No,"Yes, subtle","Yes, clear and dominant",No,No,"Yes, clear",No,No,"Yes, subtle",No,malignant
+ISIC_0000554,Undefined,"Yes, subtle","Yes, subtle",No,No,No,No,No,No,No,"Yes, clear","Yes, clear","Yes, clear",No,malignant
+ISIC_0000555,Undefined,"Yes, subtle",No,No,No,No,No,No,"Yes, subtle","Yes, clear and dominant",No,"Yes, clear",No,No,malignant
+ISIC_0000556,Diffuse Reticular,"Yes, clear and dominant",No,"Yes, subtle",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000882,Patchy Reticular,"Yes, clear",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0000900,Undefined,"Yes, subtle",No,No,No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,benign
+ISIC_0000999,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0001102,Undefined,No,No,No,No,No,"Yes, clear and dominant","Yes, clear",No,No,No,No,"Yes, clear","Yes, clear",malignant
+ISIC_0001105,Undefined,No,"Yes, clear and dominant",No,No,"Yes, clear and dominant",No,No,No,No,No,No,No,No,malignant
+ISIC_0001106,Undefined,"Yes, subtle",No,No,No,"Yes, subtle",No,No,"Yes, clear",No,"Yes, subtle",No,No,No,malignant
+ISIC_0001118,Multicomponent (mix of 3 or more above),"Yes, clear",No,"Yes, subtle",No,No,"Yes, subtle",No,No,No,"Yes, clear",No,"Yes, clear",No,malignant
+ISIC_0001119,Mixed (mix of two of the above),No,No,No,No,"Yes, clear","Yes, clear and dominant","Yes, clear and dominant",No,No,No,No,No,No,malignant
+ISIC_0001126,Undefined,"Yes, subtle",No,"Yes, subtle",No,No,No,No,"Yes, subtle","Yes, clear",No,"Yes, clear",No,No,malignant
+ISIC_0001133,Undefined,No,"Yes, clear and dominant",No,No,No,No,No,"Yes, clear",No,No,"Yes, clear","Yes, clear",No,malignant
+ISIC_0001134,Undefined,"Yes, subtle",No,No,No,No,"Yes, clear and dominant",No,No,"Yes, clear and dominant",No,No,No,No,malignant
+ISIC_0001140,Undefined,"Yes, subtle",No,No,No,No,"Yes, clear","Yes, clear",No,No,No,No,"Yes, clear",No,malignant
+ISIC_0001148,Undefined,"Yes, clear",No,No,No,No,No,No,No,No,"Yes, subtle","Yes, clear",No,No,malignant
+ISIC_0001152,Multicomponent (mix of 3 or more above),"Yes, clear",No,"Yes, subtle",No,No,No,No,"Yes, clear and dominant",No,No,"Yes, clear","Yes, clear",No,malignant
+ISIC_0001163,Undefined,No,No,No,No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,benign
+ISIC_0001184,Undefined,"Yes, subtle",No,No,No,No,No,No,No,"Yes, clear",No,No,No,No,benign
+ISIC_0001187,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0001188,Diffuse Reticular,"Yes, subtle",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0001191,Undefined,No,No,No,No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,benign
+ISIC_0001212,Undefined,No,No,"Yes, subtle",No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,benign
+ISIC_0001213,Mixed (mix of two of the above),No,No,"Yes, clear",No,No,No,"Yes, clear",No,No,No,No,No,No,benign
+ISIC_0001216,Undefined,No,No,No,No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,benign
+ISIC_0001247,Mixed (mix of two of the above),No,No,"Yes, clear",No,No,No,"Yes, clear",No,No,No,No,No,No,benign
+ISIC_0001254,Mixed (mix of two of the above),No,No,"Yes, subtle",No,No,No,"Yes, clear",No,No,No,No,No,No,benign
+ISIC_0001262,Undefined,No,No,"Yes, subtle",No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,benign
+ISIC_0001267,Undefined,No,No,"Yes, subtle",No,No,No,No,No,"Yes, clear",No,No,No,No,benign
+ISIC_0001275,Undefined,No,No,"Yes, subtle",No,No,No,No,No,"Yes, clear",No,No,No,No,benign
+ISIC_0001286,Undefined,"Yes, subtle",No,No,No,No,No,No,No,"Yes, clear",No,No,No,No,benign
+ISIC_0001292,Undefined,"Yes, subtle",No,No,No,No,No,No,No,"Yes, clear",No,No,No,No,benign
+ISIC_0001296,Undefined,"Yes, subtle",No,No,No,No,No,No,No,"Yes, clear",No,No,No,No,benign
+ISIC_0001306,Undefined,No,No,"Yes, subtle",No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,benign
+ISIC_0001367,Diffuse Reticular,"Yes, clear",No,"Yes, subtle",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0001372,Undefined,No,No,"Yes, subtle",No,No,No,No,No,"Yes, clear",No,No,No,No,benign
+ISIC_0001374,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0001385,Undefined,No,No,"Yes, subtle",No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,benign
+ISIC_0001423,Undefined,No,No,"Yes, subtle",No,No,No,No,No,"Yes, clear",No,No,No,No,benign
+ISIC_0001442,Globular,No,No,"Yes, subtle",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0001449,Globular,No,No,"Yes, clear",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0001742,Globular,No,No,"Yes, clear",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0002093,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0002206,Undefined,No,No,"Yes, subtle",No,No,No,No,No,"Yes, clear",No,No,No,No,benign
+ISIC_0002251,Undefined,"Yes, subtle",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0002287,Globular,No,No,"Yes, clear",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0002353,Undefined,No,No,"Yes, subtle",No,No,No,No,No,"Yes, clear",No,No,No,No,benign
+ISIC_0002374,Globular,No,No,"Yes, clear",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0002438,Undefined,"Yes, subtle",No,"Yes, subtle",No,No,No,No,No,"Yes, clear","Yes, subtle",No,No,No,benign
+ISIC_0002439,Undefined,"Yes, subtle",No,No,"Yes, subtle",No,No,No,No,No,"Yes, subtle",No,No,No,benign
+ISIC_0002453,Homogeneous,No,No,No,No,No,No,"Yes, clear and dominant","Yes, subtle",No,No,No,No,No,benign
+ISIC_0002459,Homogeneous,No,No,No,No,No,No,"Yes, clear and dominant","Yes, subtle",No,No,No,No,No,benign
+ISIC_0002469,Undefined,"Yes, subtle",No,No,No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,benign
+ISIC_0002476,Homogeneous,No,No,"Yes, subtle",No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0002488,Homogeneous,No,"Yes, subtle",No,No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0002489,Diffuse Reticular,"Yes, subtle",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0002616,Undefined,No,No,"Yes, subtle",No,No,No,No,No,"Yes, clear",No,No,No,No,benign
+ISIC_0002647,Mixed (mix of two of the above),No,No,"Yes, clear",No,No,No,"Yes, clear",No,No,No,No,No,No,benign
+ISIC_0002780,Undefined,No,No,"Yes, clear",No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,benign
+ISIC_0002806,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,"Yes, subtle",No,No,No,No,No,No,benign
+ISIC_0002836,Globular,No,No,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0002879,Undefined,No,No,"Yes, subtle",No,No,No,No,No,"Yes, clear","Yes, subtle",No,No,No,benign
+ISIC_0002885,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, clear",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0002948,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,"Yes, subtle",No,No,No,No,No,No,benign
+ISIC_0002975,Undefined,"Yes, subtle",No,"Yes, subtle",No,No,No,No,No,"Yes, clear",No,No,No,No,benign
+ISIC_0002976,Diffuse Reticular,"Yes, subtle",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0003005,Undefined,No,No,"Yes, subtle",No,No,No,No,No,"Yes, clear",No,No,No,No,benign
+ISIC_0003051,Globular,No,No,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0003174,Mixed (mix of two of the above),No,No,"Yes, clear",No,No,No,"Yes, clear",No,No,No,No,No,No,benign
+ISIC_0003308,Undefined,No,No,No,No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,benign
+ISIC_0003346,Diffuse Reticular,"Yes, subtle",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0004110,Globular,No,No,"Yes, clear",No,No,No,No,No,"Yes, subtle",No,No,No,No,benign
+ISIC_0004166,Diffuse Reticular,"Yes, subtle",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0004168,Diffuse Reticular,"Yes, subtle",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0004309,Undefined,No,No,"Yes, subtle","Yes, subtle",No,No,"Yes, clear",No,"Yes, clear",No,No,No,No,benign
+ISIC_0004715,Homogeneous,No,No,"Yes, subtle",No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0004985,Homogeneous,No,No,"Yes, subtle",No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0005187,Mixed (mix of two of the above),"Yes, subtle",No,"Yes, clear",No,No,No,"Yes, subtle",No,No,No,No,No,No,benign
+ISIC_0005247,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,"Yes, subtle",No,No,No,No,No,No,benign
+ISIC_0005548,Mixed (mix of two of the above),"Yes, clear",No,"Yes, clear",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0005555,Diffuse Reticular,"Yes, clear",No,No,No,No,No,No,No,"Yes, clear",No,No,No,No,benign
+ISIC_0005564,Diffuse Reticular,"Yes, clear and dominant",No,"Yes, subtle",No,No,No,"Yes, subtle",No,No,No,No,No,No,benign
+ISIC_0005620,Cobblestone,No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,benign
+ISIC_0005639,Mixed (mix of two of the above),"Yes, clear",No,"Yes, clear","Yes, subtle",No,No,"Yes, subtle",No,No,No,No,No,No,benign
+ISIC_0005666,Homogeneous,"Yes, subtle",No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0005787,Mixed (mix of two of the above),No,No,"Yes, subtle",No,No,No,"Yes, clear",No,No,No,No,No,No,benign
+ISIC_0006021,Undefined,No,No,No,No,No,No,"Yes, clear and dominant",No,"Yes, clear",No,"Yes, subtle",No,No,benign
+ISIC_0006114,Undefined,No,No,"Yes, subtle",No,No,No,"Yes, clear and dominant","Yes, subtle","Yes, subtle",No,No,No,No,benign
+ISIC_0006326,Mixed (mix of two of the above),"Yes, subtle",No,"Yes, clear","Yes, clear",No,No,"Yes, subtle",No,No,No,No,No,No,benign
+ISIC_0006350,Undefined,"Yes, subtle",No,"Yes, subtle",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0006612,Diffuse Reticular,"Yes, subtle",No,No,No,No,No,"Yes, subtle",No,No,No,No,No,No,benign
+ISIC_0006776,Diffuse Reticular,"Yes, subtle",No,No,No,No,No,No,No,"Yes, subtle",No,No,No,No,benign
+ISIC_0006795,Undefined,"Yes, subtle",No,"Yes, subtle",No,No,No,"Yes, clear",No,No,No,No,No,No,benign
+ISIC_0006800,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, subtle",No,"Yes, subtle",No,"Yes, subtle",No,No,No,No,No,No,benign
+ISIC_0006940,Undefined,"Yes, subtle",No,"Yes, subtle",No,No,No,No,No,No,No,"Yes, clear",No,No,benign
+ISIC_0006982,Undefined,"Yes, subtle",No,"Yes, subtle",No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,benign
+ISIC_0007038,Undefined,No,No,"Yes, subtle",No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,benign
+ISIC_0007087,Globular,"Yes, subtle",No,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0007475,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,"Yes, subtle",No,No,No,No,No,No,benign
+ISIC_0007557,Mixed (mix of two of the above),No,No,"Yes, clear and dominant","Yes, clear",No,No,No,No,No,No,No,No,No,benign
+ISIC_0007760,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0007788,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0008029,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0008145,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0008236,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0008256,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0008280,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0008294,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0008347,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0008396,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0008403,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0008524,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0008528,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0008541,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0008552,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0008785,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0008807,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0008879,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0008913,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0008993,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009160,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009165,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009188,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009252,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009297,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009344,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009430,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009504,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009505,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009533,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009583,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009599,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009758,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009800,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009860,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009868,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,malignant
+ISIC_0009870,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009871,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009873,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009875,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009877,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009883,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009884,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009888,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009893,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009895,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009896,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009897,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,malignant
+ISIC_0009899,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009900,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009904,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009905,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,malignant
+ISIC_0009909,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009910,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,malignant
+ISIC_0009911,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009912,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009914,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009915,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009917,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009919,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009921,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009925,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009929,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009932,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009933,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009934,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,malignant
+ISIC_0009935,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009936,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009937,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009938,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009939,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009940,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009941,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009942,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009944,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009947,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009949,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009950,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,malignant
+ISIC_0009951,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009953,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009960,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,malignant
+ISIC_0009961,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009962,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009963,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009964,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009966,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009967,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009968,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009969,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009971,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,malignant
+ISIC_0009972,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009973,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009974,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009975,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009976,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009978,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009979,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009981,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009983,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009986,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009987,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009991,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0009995,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010000,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,malignant
+ISIC_0010001,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,malignant
+ISIC_0010002,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010003,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010005,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010006,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010010,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010014,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010015,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010017,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010019,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010021,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010022,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010024,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,malignant
+ISIC_0010025,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010029,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,malignant
+ISIC_0010032,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010035,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010036,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,malignant
+ISIC_0010040,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010042,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010043,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010044,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010046,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010051,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010052,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010053,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010054,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,malignant
+ISIC_0010056,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,malignant
+ISIC_0010057,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010060,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010063,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010064,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010065,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010066,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010067,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,malignant
+ISIC_0010068,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010069,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010070,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010071,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010074,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010075,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010078,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010079,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010080,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,malignant
+ISIC_0010081,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,malignant
+ISIC_0010083,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010086,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010087,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010090,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010091,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010093,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010094,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010101,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010102,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010104,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010105,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010168,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010169,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010170,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010174,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,malignant
+ISIC_0010176,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010177,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010178,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010182,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010184,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010185,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010186,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010189,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,malignant
+ISIC_0010191,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010194,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,malignant
+ISIC_0010203,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010204,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010205,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010212,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010213,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010218,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010219,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010220,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010222,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010223,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010225,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,malignant
+ISIC_0010226,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010227,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010228,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010230,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010232,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010233,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010235,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,malignant
+ISIC_0010236,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010237,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010239,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010240,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,malignant
+ISIC_0010241,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,malignant
+ISIC_0010242,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,malignant
+ISIC_0010244,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010246,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010247,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010248,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010249,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010251,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,malignant
+ISIC_0010252,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010256,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010262,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010263,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010264,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010265,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,malignant
+ISIC_0010266,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,malignant
+ISIC_0010267,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,malignant
+ISIC_0010317,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010318,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010319,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,malignant
+ISIC_0010320,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010321,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,malignant
+ISIC_0010322,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,malignant
+ISIC_0010323,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010324,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010325,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010327,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010329,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,malignant
+ISIC_0010330,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010332,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010333,Diffuse Reticular,No,No,No,No,No,No,No,"Yes, clear and dominant",No,"Yes, subtle",No,No,No,benign
+ISIC_0010334,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, subtle",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010335,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010337,Undefined,"Yes, subtle",No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0010339,Multicomponent (mix of 3 or more above),"Yes, subtle",No,"Yes, subtle",No,No,No,"Yes, clear",No,No,"Yes, clear",No,No,No,benign
+ISIC_0010341,Homogeneous,No,No,No,No,"Yes, clear",No,No,No,No,No,No,No,No,benign
+ISIC_0010342,Undefined,"Yes, clear","Yes, subtle","Yes, subtle",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010344,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010349,Multicomponent (mix of 3 or more above),"Yes, subtle",No,"Yes, subtle",No,"Yes, subtle",No,"Yes, subtle",No,No,"Yes, subtle","Yes, subtle",No,No,malignant
+ISIC_0010350,Mixed (mix of two of the above),"Yes, clear",No,"Yes, subtle",No,"Yes, subtle","Yes, clear","Yes, clear",No,No,No,No,"Yes, subtle",No,malignant
+ISIC_0010351,Undefined,No,No,"Yes, clear",No,No,No,No,No,No,"Yes, clear",No,No,No,benign
+ISIC_0010352,Homogeneous,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010356,Undefined,No,No,"Yes, subtle",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010357,Undefined,"Yes, subtle",No,"Yes, clear",No,No,No,No,No,No,"Yes, clear",No,No,No,benign
+ISIC_0010358,Multicomponent (mix of 3 or more above),"Yes, subtle",No,"Yes, subtle",No,No,"Yes, clear",No,No,"Yes, subtle","Yes, clear",No,No,No,malignant
+ISIC_0010361,Undefined,No,No,No,No,No,No,No,"Yes, clear",No,"Yes, clear",No,No,No,benign
+ISIC_0010362,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010364,Multicomponent (mix of 3 or more above),No,"Yes, clear","Yes, subtle",No,No,"Yes, subtle",No,No,"Yes, subtle","Yes, subtle",No,No,No,malignant
+ISIC_0010365,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010367,Mixed (mix of two of the above),"Yes, clear",No,No,No,No,No,No,No,No,No,"Yes, clear",No,No,benign
+ISIC_0010370,Undefined,No,No,"Yes, clear",No,No,No,No,No,"Yes, clear","Yes, clear",No,No,No,benign
+ISIC_0010371,Patchy Reticular,"Yes, clear",No,"Yes, subtle",No,No,No,No,No,No,"Yes, clear","Yes, subtle",No,No,benign
+ISIC_0010372,Multicomponent (mix of 3 or more above),No,No,"Yes, clear",No,No,No,No,"Yes, clear",No,"Yes, subtle","Yes, subtle",No,No,malignant
+ISIC_0010380,Undefined,No,No,No,"Yes, subtle",No,No,"Yes, subtle",No,"Yes, subtle","Yes, subtle",No,No,No,malignant
+ISIC_0010382,Mixed (mix of two of the above),No,No,"Yes, clear",No,No,No,"Yes, clear",No,No,No,No,No,No,benign
+ISIC_0010435,Undefined,No,No,No,"Yes, subtle",No,No,"Yes, clear",No,No,No,No,No,No,benign
+ISIC_0010436,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010438,Globular,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010439,Diffuse Reticular,"Yes, clear",No,No,"Yes, subtle",No,No,No,No,No,No,No,No,No,benign
+ISIC_0010440,Undefined,No,No,No,No,No,No,"Yes, clear",No,No,No,No,No,No,benign
+ISIC_0010441,Undefined,No,No,"Yes, subtle","Yes, clear",No,No,No,"Yes, clear",No,"Yes, subtle","Yes, subtle",No,No,malignant
+ISIC_0010442,Mixed (mix of two of the above),"Yes, clear",No,"Yes, clear",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010443,Mixed (mix of two of the above),"Yes, clear",No,No,"Yes, clear",No,No,No,No,No,No,No,No,No,benign
+ISIC_0010445,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010447,Cobblestone,No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,benign
+ISIC_0010450,Mixed (mix of two of the above),"Yes, clear",No,"Yes, clear",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010455,Mixed (mix of two of the above),"Yes, clear",No,"Yes, clear",No,No,No,"Yes, clear",No,No,No,No,No,No,benign
+ISIC_0010457,Undefined,No,No,"Yes, subtle",No,No,No,No,"Yes, clear",No,No,No,No,No,benign
+ISIC_0010458,Globular,No,No,No,"Yes, clear and dominant",No,No,No,"Yes, subtle",No,No,No,No,No,benign
+ISIC_0010459,Globular,No,No,"Yes, subtle","Yes, clear",No,No,No,No,No,No,No,No,No,benign
+ISIC_0010461,Globular,No,No,No,"Yes, clear",No,No,No,No,No,No,No,No,No,benign
+ISIC_0010462,Homogeneous,"Yes, subtle",No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0010464,Globular,No,No,"Yes, subtle","Yes, clear",No,No,No,No,No,No,No,No,No,benign
+ISIC_0010465,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010466,Multicomponent (mix of 3 or more above),"Yes, subtle",No,"Yes, clear",No,No,No,No,No,No,"Yes, clear",No,No,No,malignant
+ISIC_0010467,Undefined,No,No,"Yes, subtle",No,No,No,No,No,No,"Yes, clear",No,No,No,benign
+ISIC_0010468,Mixed (mix of two of the above),"Yes, clear",No,No,"Yes, subtle",No,No,No,No,No,"Yes, clear","Yes, subtle",No,No,malignant
+ISIC_0010471,Diffuse Reticular,"Yes, clear and dominant",No,"Yes, subtle",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010472,Mixed (mix of two of the above),"Yes, clear",No,"Yes, subtle","Yes, clear",No,No,No,No,No,No,No,No,No,benign
+ISIC_0010473,Undefined,"Yes, subtle",No,"Yes, subtle",No,No,No,No,No,No,No,"Yes, subtle",No,No,benign
+ISIC_0010475,Undefined,"Yes, subtle",No,"Yes, subtle",No,No,No,"Yes, clear",No,No,No,No,No,No,benign
+ISIC_0010476,Undefined,No,No,"Yes, clear",No,No,No,"Yes, clear",No,No,No,"Yes, subtle",No,No,malignant
+ISIC_0010479,Globular,No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,benign
+ISIC_0010480,Mixed (mix of two of the above),"Yes, clear",No,"Yes, subtle",No,"Yes, subtle",No,No,No,No,No,No,No,No,benign
+ISIC_0010481,Mixed (mix of two of the above),"Yes, subtle",No,"Yes, subtle",No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0010487,Undefined,No,No,"Yes, clear",No,No,No,"Yes, clear",No,No,No,No,No,No,benign
+ISIC_0010488,Patchy Reticular,"Yes, clear",No,No,No,No,No,"Yes, subtle",No,No,No,No,No,No,benign
+ISIC_0010490,Mixed (mix of two of the above),"Yes, clear",No,"Yes, subtle",No,No,No,No,"Yes, clear",No,No,No,No,No,benign
+ISIC_0010491,Undefined,No,No,No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,No,benign
+ISIC_0010492,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010493,Mixed (mix of two of the above),"Yes, clear",No,"Yes, clear",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010495,Undefined,"Yes, clear",No,"Yes, clear and dominant",No,No,No,No,No,No,"Yes, subtle",No,No,No,malignant
+ISIC_0010496,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,"Yes, clear",No,No,benign
+ISIC_0010497,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,"Yes, clear",No,No,benign
+ISIC_0010554,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010557,Mixed (mix of two of the above),No,No,"Yes, clear",No,No,No,"Yes, subtle",No,No,No,No,No,No,benign
+ISIC_0010558,Mixed (mix of two of the above),"Yes, clear",No,"Yes, clear",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010562,Globular,No,No,"Yes, clear",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010566,Mixed (mix of two of the above),"Yes, clear",No,"Yes, subtle",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010567,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010568,Patchy Reticular,"Yes, clear and dominant",No,No,No,No,No,"Yes, subtle",No,No,No,No,No,No,benign
+ISIC_0010569,Undefined,No,No,"Yes, clear",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010570,Cobblestone,"Yes, subtle",No,No,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,benign
+ISIC_0010571,Globular,No,No,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010572,Globular,No,No,"Yes, subtle","Yes, subtle",No,No,No,No,No,No,No,No,No,benign
+ISIC_0010573,Patchy Reticular,"Yes, clear",No,"Yes, subtle",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010575,Globular,No,No,"Yes, subtle","Yes, clear",No,No,No,No,No,No,No,No,No,benign
+ISIC_0010576,Mixed (mix of two of the above),No,No,"Yes, subtle",No,"Yes, subtle",No,No,No,"Yes, clear","Yes, subtle",No,No,No,malignant
+ISIC_0010577,Diffuse Reticular,No,No,"Yes, clear",No,No,No,No,No,No,"Yes, clear",No,No,No,benign
+ISIC_0010581,Cobblestone,No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,benign
+ISIC_0010585,Undefined,No,No,"Yes, clear",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010586,Homogeneous,No,No,No,"Yes, subtle",No,No,"Yes, clear",No,No,No,No,No,No,benign
+ISIC_0010589,Patchy Reticular,"Yes, clear and dominant",No,"Yes, subtle",No,"Yes, subtle",No,No,No,No,No,No,No,No,benign
+ISIC_0010590,Undefined,No,No,No,"Yes, subtle",No,No,"Yes, subtle",No,No,No,No,No,No,benign
+ISIC_0010593,Mixed (mix of two of the above),"Yes, clear and dominant",No,No,"Yes, clear",No,No,No,No,No,No,No,No,No,benign
+ISIC_0010594,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010595,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010602,Mixed (mix of two of the above),"Yes, clear and dominant",No,No,"Yes, clear","Yes, clear",No,No,No,No,No,No,No,No,benign
+ISIC_0010603,Globular,No,No,No,"Yes, clear",No,No,No,No,No,No,No,No,No,benign
+ISIC_0010605,Mixed (mix of two of the above),"Yes, subtle",No,No,No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0010844,Globular,No,No,"Yes, subtle","Yes, clear",No,No,No,No,No,No,No,No,No,benign
+ISIC_0010848,Undefined,"Yes, subtle",No,"Yes, subtle",No,No,No,No,No,No,"Yes, subtle",No,No,No,benign
+ISIC_0010849,Undefined,No,No,"Yes, clear",No,No,No,No,No,No,"Yes, subtle","Yes, clear",No,No,benign
+ISIC_0010850,Mixed (mix of two of the above),No,No,No,"Yes, clear","Yes, clear",No,"Yes, clear and dominant",No,No,No,No,No,No,benign
+ISIC_0010851,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010852,Multicomponent (mix of 3 or more above),"Yes, subtle",No,No,"Yes, subtle",No,"Yes, subtle",No,No,No,"Yes, subtle",No,No,No,malignant
+ISIC_0010853,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0010857,Patchy Reticular,"Yes, clear and dominant",No,No,No,No,No,"Yes, subtle",No,No,No,No,No,No,benign
+ISIC_0010858,Globular,No,No,No,"Yes, clear",No,No,No,No,No,No,No,No,No,benign
+ISIC_0010860,Multicomponent (mix of 3 or more above),"Yes, clear",No,No,No,"Yes, subtle",No,"Yes, clear",No,No,"Yes, subtle",No,"Yes, subtle",No,malignant
+ISIC_0010861,Mixed (mix of two of the above),"Yes, clear",No,No,"Yes, clear",No,No,No,No,No,No,No,No,No,benign
+ISIC_0010862,Undefined,No,"Yes, clear and dominant",No,"Yes, clear","Yes, clear",No,No,No,No,No,No,No,No,malignant
+ISIC_0010864,Mixed (mix of two of the above),"Yes, clear",No,"Yes, clear","Yes, clear",No,No,No,No,No,No,No,No,No,benign
+ISIC_0011079,Mixed (mix of two of the above),"Yes, clear",No,No,"Yes, clear",No,No,"Yes, subtle",No,No,No,No,No,No,benign
+ISIC_0011082,Mixed (mix of two of the above),"Yes, clear",No,No,"Yes, subtle",No,No,No,No,No,No,No,No,No,benign
+ISIC_0011084,Undefined,No,No,No,"Yes, subtle",No,No,"Yes, clear",No,No,"Yes, subtle",No,No,No,benign
+ISIC_0011085,Mixed (mix of two of the above),"Yes, clear and dominant",No,No,"Yes, clear",No,No,No,No,No,No,No,No,No,benign
+ISIC_0011088,Mixed (mix of two of the above),"Yes, subtle",No,No,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,benign
+ISIC_0011095,Mixed (mix of two of the above),"Yes, subtle",No,"Yes, clear",No,No,"Yes, subtle",No,No,No,"Yes, subtle",No,No,No,malignant
+ISIC_0011097,Mixed (mix of two of the above),No,No,"Yes, clear and dominant",No,"Yes, clear",No,"Yes, subtle",No,No,No,No,No,No,benign
+ISIC_0011099,Multicomponent (mix of 3 or more above),"Yes, subtle","Yes, clear",No,"Yes, clear","Yes, subtle","Yes, clear",No,No,No,No,"Yes, subtle",No,No,malignant
+ISIC_0011100,Mixed (mix of two of the above),"Yes, clear",No,"Yes, subtle","Yes, clear",No,No,"Yes, clear",No,No,No,No,No,No,benign
+ISIC_0011102,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, subtle",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0011105,Mixed (mix of two of the above),"Yes, clear",No,"Yes, clear","Yes, subtle","Yes, subtle",No,No,No,No,No,No,No,No,benign
+ISIC_0011109,Undefined,No,No,No,No,No,No,"Yes, clear",No,No,No,No,No,No,benign
+ISIC_0011114,Undefined,"Yes, clear",No,"Yes, subtle",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0011115,Mixed (mix of two of the above),"Yes, subtle",No,No,"Yes, clear and dominant",No,No,No,No,No,"Yes, subtle",No,No,No,benign
+ISIC_0011116,Undefined,No,No,"Yes, clear and dominant",No,No,No,No,No,No,"Yes, clear",No,No,No,benign
+ISIC_0011117,Globular,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0011118,Multicomponent (mix of 3 or more above),"Yes, subtle",No,"Yes, subtle",No,"Yes, subtle","Yes, subtle",No,No,No,"Yes, subtle","Yes, clear",No,No,malignant
+ISIC_0011119,Globular,No,No,"Yes, subtle","Yes, clear",No,No,No,No,No,No,No,No,No,benign
+ISIC_0011120,Undefined,No,No,No,"Yes, subtle",No,No,No,"Yes, clear",No,No,"Yes, clear",No,No,benign
+ISIC_0011121,Multicomponent (mix of 3 or more above),"Yes, clear",No,"Yes, subtle","Yes, subtle",No,No,No,"Yes, clear",No,"Yes, subtle",No,No,No,malignant
+ISIC_0011123,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, subtle",No,"Yes, subtle",No,No,No,No,No,No,No,No,benign
+ISIC_0011124,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0011125,Multicomponent (mix of 3 or more above),"Yes, subtle",No,No,"Yes, clear","Yes, clear and dominant","Yes, clear","Yes, subtle","Yes, subtle",No,No,No,No,No,malignant
+ISIC_0011126,Multicomponent (mix of 3 or more above),"Yes, clear",No,"Yes, subtle",No,No,"Yes, clear",No,No,No,"Yes, subtle","Yes, clear","Yes, clear",No,malignant
+ISIC_0011127,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0011128,Undefined,No,No,No,No,No,No,"Yes, clear",No,No,"Yes, subtle",No,No,No,malignant
+ISIC_0011130,Multicomponent (mix of 3 or more above),"Yes, clear",No,"Yes, subtle",No,No,No,No,No,No,"Yes, clear",No,No,No,malignant
+ISIC_0011131,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0011135,Multicomponent (mix of 3 or more above),"Yes, subtle",No,"Yes, subtle","Yes, clear","Yes, clear","Yes, clear","Yes, subtle",No,No,No,No,No,No,malignant
+ISIC_0011136,Undefined,No,No,"Yes, subtle",No,No,No,"Yes, subtle",No,No,No,No,No,No,malignant
+ISIC_0011137,Multicomponent (mix of 3 or more above),"Yes, clear","Yes, clear","Yes, subtle","Yes, subtle",No,No,"Yes, subtle",No,No,No,No,No,No,malignant
+ISIC_0011139,Multicomponent (mix of 3 or more above),"Yes, clear",No,"Yes, subtle",No,No,No,"Yes, clear",No,No,No,No,No,No,malignant
+ISIC_0011140,Mixed (mix of two of the above),No,No,No,"Yes, clear",No,No,"Yes, clear",No,No,"Yes, subtle",No,No,No,malignant
+ISIC_0011141,Multicomponent (mix of 3 or more above),No,No,"Yes, clear",No,"Yes, subtle","Yes, clear",No,"Yes, clear",No,"Yes, clear",No,No,No,malignant
+ISIC_0011144,Mixed (mix of two of the above),"Yes, clear",No,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0011145,Diffuse Reticular,"Yes, clear and dominant",No,"Yes, subtle",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0011146,Globular,No,No,"Yes, subtle","Yes, clear",No,No,No,No,No,No,No,No,No,benign
+ISIC_0011156,Mixed (mix of two of the above),"Yes, clear",No,No,"Yes, clear",No,No,No,No,No,No,No,No,No,benign
+ISIC_0011157,Globular,No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,benign
+ISIC_0011158,Multicomponent (mix of 3 or more above),"Yes, clear",No,No,No,"Yes, subtle",No,No,"Yes, clear and dominant",No,"Yes, clear","Yes, clear",No,No,malignant
+ISIC_0011159,Mixed (mix of two of the above),"Yes, clear",No,"Yes, subtle","Yes, clear","Yes, clear",No,No,"Yes, clear",No,No,No,No,No,benign
+ISIC_0011161,Multicomponent (mix of 3 or more above),"Yes, subtle","Yes, clear","Yes, subtle",No,"Yes, subtle",No,No,"Yes, clear",No,"Yes, clear","Yes, clear",No,No,malignant
+ISIC_0011163,Globular,No,No,No,"Yes, clear","Yes, clear","Yes, subtle",No,No,No,No,No,No,No,malignant
+ISIC_0011164,Undefined,No,No,"Yes, subtle",No,No,No,No,No,"Yes, clear",No,No,No,No,benign
+ISIC_0011165,Mixed (mix of two of the above),"Yes, clear and dominant",No,No,No,No,No,"Yes, clear",No,No,No,No,No,No,benign
+ISIC_0011166,Mixed (mix of two of the above),"Yes, clear",No,"Yes, clear",No,No,"Yes, subtle",No,No,No,"Yes, clear",No,No,No,malignant
+ISIC_0011169,Mixed (mix of two of the above),"Yes, clear",No,"Yes, subtle",No,No,No,"Yes, clear",No,No,No,No,No,No,malignant
+ISIC_0011170,Undefined,"Yes, subtle",No,No,No,No,No,"Yes, clear",No,No,No,No,No,No,benign
+ISIC_0011173,Mixed (mix of two of the above),"Yes, subtle",No,No,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,benign
+ISIC_0011199,Homogeneous,No,No,"Yes, subtle",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0011200,Diffuse Reticular,No,No,"Yes, subtle",No,"Yes, subtle",No,No,No,No,No,No,No,No,benign
+ISIC_0011202,Undefined,"Yes, subtle",No,No,No,No,No,"Yes, clear",No,No,No,No,No,No,benign
+ISIC_0011203,Globular,No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,benign
+ISIC_0011207,Globular,No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,benign
+ISIC_0011208,Mixed (mix of two of the above),"Yes, subtle",No,"Yes, subtle","Yes, subtle",No,No,No,No,No,"Yes, clear",No,No,No,benign
+ISIC_0011210,Globular,No,No,"Yes, subtle","Yes, subtle","Yes, clear","Yes, clear and dominant",No,No,No,No,No,No,No,malignant
+ISIC_0011211,Globular,No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,benign
+ISIC_0011212,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0011214,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, clear",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0011215,Globular,No,No,"Yes, clear","Yes, clear",No,No,No,No,No,No,No,No,No,benign
+ISIC_0011217,Undefined,No,No,No,No,No,No,No,No,No,"Yes, subtle",No,No,No,benign
+ISIC_0011218,Undefined,No,No,No,No,No,No,"Yes, clear",No,No,No,No,No,No,benign
+ISIC_0011220,Undefined,No,No,No,"Yes, subtle","Yes, clear",No,No,No,No,No,No,No,No,benign
+ISIC_0011223,Mixed (mix of two of the above),"Yes, clear",No,No,"Yes, clear",No,No,No,No,No,"Yes, clear",No,No,No,benign
+ISIC_0011225,Mixed (mix of two of the above),"Yes, subtle",No,No,"Yes, clear",No,No,No,No,No,No,No,No,No,benign
+ISIC_0011226,Undefined,No,No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0011228,Globular,No,No,"Yes, subtle","Yes, clear",No,No,No,No,No,No,No,No,No,benign
+ISIC_0011229,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0011230,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0011295,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,"Yes, clear",No,No,No,malignant
+ISIC_0011296,Undefined,No,No,No,No,No,No,No,"Yes, clear",No,No,No,No,No,benign
+ISIC_0011297,Mixed (mix of two of the above),"Yes, subtle",No,No,No,"Yes, clear",No,No,No,No,No,No,No,No,benign
+ISIC_0011299,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0011301,Cobblestone,No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,benign
+ISIC_0011303,Mixed (mix of two of the above),No,No,No,"Yes, clear","Yes, clear",No,"Yes, clear",No,No,No,No,No,No,benign
+ISIC_0011304,Globular,No,No,No,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,benign
+ISIC_0011306,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, clear",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0011315,Undefined,No,No,"Yes, subtle",No,No,No,No,No,No,"Yes, clear",No,No,No,malignant
+ISIC_0011317,Mixed (mix of two of the above),No,No,No,"Yes, clear and dominant",No,No,"Yes, clear",No,No,No,No,No,No,benign
+ISIC_0011322,Diffuse Reticular,No,No,No,No,No,No,No,No,No,"Yes, subtle",No,No,No,benign
+ISIC_0011323,Diffuse Reticular,"Yes, clear and dominant",No,"Yes, subtle",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0011324,Cobblestone,No,No,"Yes, subtle","Yes, clear and dominant",No,No,No,No,No,No,No,No,No,benign
+ISIC_0011326,Mixed (mix of two of the above),"Yes, subtle",No,No,No,No,No,No,"Yes, subtle",No,No,No,No,No,benign
+ISIC_0011327,Globular,No,No,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0011328,Globular,No,No,"Yes, clear and dominant","Yes, subtle","Yes, clear",No,No,No,No,No,No,No,No,benign
+ISIC_0011329,Multicomponent (mix of 3 or more above),No,No,"Yes, clear","Yes, subtle","Yes, subtle",No,No,No,No,"Yes, clear",No,"Yes, clear","Yes, subtle",malignant
+ISIC_0011330,Globular,"Yes, subtle",No,No,No,"Yes, clear",No,No,No,No,No,No,No,No,benign
+ISIC_0011331,Mixed (mix of two of the above),"Yes, clear",No,No,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,benign
+ISIC_0011332,Mixed (mix of two of the above),"Yes, clear",No,No,No,No,No,"Yes, subtle",No,No,"Yes, subtle",No,No,No,benign
+ISIC_0011334,Undefined,No,No,No,No,No,No,No,No,No,"Yes, clear",No,No,No,malignant
+ISIC_0011339,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0011341,Undefined,"Yes, subtle",No,No,"Yes, clear",No,No,No,No,No,No,No,No,No,benign
+ISIC_0011343,Mixed (mix of two of the above),"Yes, clear and dominant",No,"Yes, clear",No,"Yes, clear",No,No,No,No,No,No,No,No,benign
+ISIC_0011345,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0011346,Mixed (mix of two of the above),"Yes, subtle",No,"Yes, clear","Yes, clear",No,No,No,No,No,No,No,No,No,benign
+ISIC_0011347,Patchy Reticular,"Yes, clear and dominant",No,"Yes, subtle",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0011348,Multicomponent (mix of 3 or more above),"Yes, clear",No,"Yes, subtle",No,"Yes, clear",No,No,"Yes, clear",No,"Yes, subtle","Yes, clear",No,No,malignant
+ISIC_0011350,Multicomponent (mix of 3 or more above),"Yes, clear",No,"Yes, subtle",No,No,No,No,No,"Yes, clear","Yes, subtle",No,No,No,malignant
+ISIC_0011352,Diffuse Reticular,"Yes, clear and dominant",No,"Yes, subtle",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0011353,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0011354,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0011356,Undefined,No,No,"Yes, subtle","Yes, subtle",No,No,No,No,No,"Yes, clear",No,"Yes, clear",No,malignant
+ISIC_0011357,Patchy Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0011358,Patchy Reticular,"Yes, clear",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0011360,Mixed (mix of two of the above),"Yes, clear",No,No,"Yes, clear",No,No,No,No,No,No,No,No,No,benign
+ISIC_0011361,Mixed (mix of two of the above),No,No,No,"Yes, clear and dominant",No,No,No,"Yes, clear",No,No,No,No,No,benign
+ISIC_0011362,Undefined,No,No,"Yes, subtle",No,No,No,No,No,"Yes, clear",No,No,No,No,benign
+ISIC_0011366,Mixed (mix of two of the above),"Yes, clear and dominant",No,No,No,No,No,"Yes, clear",No,No,No,No,No,No,malignant
+ISIC_0011372,Mixed (mix of two of the above),"Yes, clear",No,No,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,benign
+ISIC_0011373,Undefined,"Yes, clear",No,"Yes, subtle","Yes, subtle","Yes, subtle",No,"Yes, clear",No,No,No,No,No,No,benign
+ISIC_0011378,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0011380,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0011382,Diffuse Reticular,"Yes, clear and dominant",No,"Yes, subtle",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0011383,Mixed (mix of two of the above),"Yes, subtle",No,"Yes, subtle","Yes, clear","Yes, subtle",No,No,No,No,No,No,No,No,benign
+ISIC_0011385,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0011387,Undefined,No,No,No,No,No,No,No,No,"Yes, clear and dominant","Yes, subtle",No,No,No,malignant
+ISIC_0011390,Undefined,"Yes, subtle",No,"Yes, clear",No,No,No,No,No,No,"Yes, subtle",No,No,No,malignant
+ISIC_0011393,Undefined,No,No,No,"Yes, subtle",No,No,No,No,No,No,No,No,No,benign
+ISIC_0011397,Undefined,No,No,"Yes, clear",No,"Yes, subtle",No,No,No,No,"Yes, clear",No,No,No,benign
+ISIC_0011398,Diffuse Reticular,"Yes, clear and dominant",No,"Yes, subtle",No,No,No,No,No,No,No,No,No,No,benign
+ISIC_0011400,Undefined,No,No,"Yes, subtle",No,No,"Yes, subtle",No,No,No,No,No,No,No,benign
+ISIC_0011402,Diffuse Reticular,"Yes, clear and dominant",No,No,No,No,No,No,No,No,No,No,No,No,benign

@@ -1,9 +1,13 @@
 import csv
 import json
 
-# Load your CSV file
+# Load CSV file
 melanoma_file_path = '/Users/JUAN/Desktop/medical_vqa_vlm/data/processed/df_melanoma_clean.csv'
-json_output_path = '/Users/JUAN/Desktop/medical_vqa_vlm/data/processed//df_melanoma_qa.json'
+fusion_file_path = '/Users/JUAN/Desktop/medical_vqa_vlm/data/processed/df_fusion_clean.csv'
+
+# JSON outputs
+melanoma_output_path = '/Users/JUAN/Desktop/medical_vqa_vlm/data/processed//df_melanoma_qa.json'
+fusion_output_path = '/Users/JUAN/Desktop/medical_vqa_vlm/data/processed//df_fusion_qa.json'
 
 # Define initial question/answer format for each variable
 qa_pairs = {
@@ -94,12 +98,17 @@ qa_pairs = {
     'Chrysalis': {
         'question': 'Can you identify any chrysalis?',
         'answer_template': '{value} chrysalis is observed.'
+    },
+    'Binary label': {
+        'question': 'Is the lesion malignant?',
+        'answer_template': 'The lesion appears to be {value}.'
     }
 }
 
 # Open CSV file and loop over rows
 data = []
-with open(melanoma_file_path, newline='') as csvfile:
+# Choose the necessary path in each case: melanoma_file_path or fusion_file_path
+with open(fusion_file_path, newline='') as csvfile:
     reader = csv.DictReader(csvfile)
 
     # Iterate through each image
@@ -113,10 +122,14 @@ with open(melanoma_file_path, newline='') as csvfile:
 
             # Save the formatted question
             question = qa_pair['question']
-
             # Save the template answer
             answer_template = qa_pair['answer_template']
-            actual_value = row[variable].lower()
+
+            # The fusion data does not contain every variable in the melanoma one
+            try:
+                actual_value = row[variable].lower()
+            except KeyError:
+                continue
 
             # Insert the value into the template and capitalize the first word
             formatted_answer = answer_template.format(value=actual_value)
@@ -126,6 +139,6 @@ with open(melanoma_file_path, newline='') as csvfile:
         data.append({'image_id': image_id, 'qa_pairs': qa_pairs_for_image})
 
 # Write data to JSON file
-with open(json_output_path, 'w') as jsonfile:
+with open(fusion_output_path, 'w') as jsonfile:
     json.dump(data, jsonfile, indent=4)
 
