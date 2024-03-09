@@ -8,13 +8,7 @@ The aim of this project is to design a Visual Question Answering interface using
 
 The data utilized for this project consists on two databases which contain images of melanomas, along with descriptions on the local structures, details about the patient, type of melanoma, and other relevant information.
 
-Some of the pre-trained models that will be fine-tuned using this data:
-
-    - ViLT
-    - GIT
-    - VisualBERT
-
-    ...
+The main idea is to combine the open-source BERT model with a ResNet18.
 
 __Note__: This project is intended as a Proof of Concept (PoC) or demo for learning purposes. Under any circumstances should it be used as a
 solution for real-life situations.
