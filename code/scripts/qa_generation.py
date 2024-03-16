@@ -6,8 +6,8 @@ melanoma_file_path = '/Users/JUAN/Desktop/medical_vqa_vlm/data/processed/df_mela
 fusion_file_path = '/Users/JUAN/Desktop/medical_vqa_vlm/data/processed/df_fusion_clean.csv'
 
 # JSON outputs
-melanoma_output_path = '/Users/JUAN/Desktop/medical_vqa_vlm/data/processed//df_melanoma_qa2.json'
-fusion_output_path = '/Users/JUAN/Desktop/medical_vqa_vlm/data/processed//df_fusion_qa2.json'
+melanoma_output_path = '/Users/JUAN/Desktop/medical_vqa_vlm/data/processed//df_melanoma_qa3.json'
+fusion_output_path = '/Users/JUAN/Desktop/medical_vqa_vlm/data/processed//df_fusion_qa3.json'
 
 # Define initial question/answer format for each variable
 # qa_pairs = {
